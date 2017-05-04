@@ -1,0 +1,1105 @@
+device	port	incoming	outgoing	timestamp	mrtg	desc
+1	1	89088	16214464	2017 Mar 30 Thu [10:10]	DevA_ethernet1_1	additionl description from tsv file
+1	2	576	14144	2017 Mar 30 Thu [10:10]	DevA_ethernet1_2	additionl description from tsv file
+1	3	165601393	496596293	2017 Mar 30 Thu [10:10]	DevA_ethernet1_3	additionl description from tsv file
+1	4	10033592	57215922	2017 Mar 30 Thu [10:10]	DevA_ethernet1_4	
+1	5	377848325	23343497	2017 Mar 30 Thu [10:10]	DevA_ethernet1_5	
+1	6	354930844	261033232	2017 Mar 30 Thu [10:10]	DevA_ethernet1_6	
+1	7	295360	1877248	2017 Mar 30 Thu [10:10]	DevA_ethernet1_7	additionl description from tsv file
+1	8	55361023	5946452	2017 Mar 30 Thu [10:10]	DevA_ethernet1_8	
+1	9	95470735	390975783	2017 Mar 30 Thu [10:10]	DevA_ethernet1_9	
+1	10	6455876	65840334	2017 Mar 30 Thu [10:10]	DevA_ethernet1_10	
+1	11	22502720	37660352	2017 Mar 30 Thu [10:10]	DevA_ethernet1_11	additionl description from tsv file
+1	12	6065664	35302464	2017 Mar 30 Thu [10:10]	DevA_ethernet1_12	additionl description from tsv file
+1	13	7921478	3652688	2017 Mar 30 Thu [10:10]	DevA_ethernet1_13	
+1	14	658054314	50627305	2017 Mar 30 Thu [10:10]	DevA_ethernet1_14	
+1	15	3267944	189959533	2017 Mar 30 Thu [10:10]	DevA_ethernet1_15	
+1	16	635800249	6457383	2017 Mar 30 Thu [10:10]	DevA_ethernet1_16	
+1	17	37277819	8386958	2017 Mar 30 Thu [10:10]	DevA_ethernet1_17	
+1	18	164845787	827985592	2017 Mar 30 Thu [10:10]	DevA_ethernet1_18	
+1	19	418752	6963	2017 Mar 30 Thu [10:10]	DevA_ethernet1_19	additionl description from tsv file
+1	20	2228416	1121472	2017 Mar 30 Thu [10:10]	DevA_ethernet1_20	additionl description from tsv file
+1	21	66258132	4108278	2017 Mar 30 Thu [10:10]	DevA_ethernet1_21	
+1	22	16928397	214535322	2017 Mar 30 Thu [10:10]	DevA_ethernet1_22	
+1	23	72802100	826765757	2017 Mar 30 Thu [10:10]	DevA_ethernet1_23	
+1	24	8361369	7169560	2017 Mar 30 Thu [10:10]	DevA_ethernet1_24	
+1	25	1719296	1615744	2017 Mar 30 Thu [10:10]	DevA_ethernet1_25	additionl description from tsv file
+1	26	378058141	694720125	2017 Mar 30 Thu [10:10]	DevA_ethernet1_26	additionl description from tsv file
+1	27	1371904	1419712	2017 Mar 30 Thu [10:10]	DevA_ethernet1_27	additionl description from tsv file
+1	28	6272	19456	2017 Mar 30 Thu [10:10]	DevA_ethernet1_28	additionl description from tsv file
+1	29	4928	18176	2017 Mar 30 Thu [10:10]	DevA_ethernet1_29	additionl description from tsv file
+1	30	8256	19648	2017 Mar 30 Thu [10:10]	DevA_ethernet1_30	additionl description from tsv file
+1	31	1408	7552	2017 Mar 30 Thu [10:10]	DevA_ethernet1_31	additionl description from tsv file
+1	32	250560	190528	2017 Mar 30 Thu [10:10]	DevA_ethernet1_32	additionl description from tsv file
+1	33	1996000	561652388	2017 Mar 30 Thu [10:10]	DevA_ethernet1_33	
+1	34	48792165	60766344	2017 Mar 30 Thu [10:10]	DevA_ethernet1_34	
+1	35	7315503	713120616	2017 Mar 30 Thu [10:10]	DevA_ethernet1_35	
+1	36	436721616	382176090	2017 Mar 30 Thu [10:10]	DevA_ethernet1_36	
+1	37	650283662	352076000	2017 Mar 30 Thu [10:10]	DevA_ethernet1_37	
+1	38	147229355	514529969	2017 Mar 30 Thu [10:10]	DevA_ethernet1_38	
+1	39	630135550	424756255	2017 Mar 30 Thu [10:10]	DevA_ethernet1_39	
+1	40	136164249	651515012	2017 Mar 30 Thu [10:10]	DevA_ethernet1_40	
+1	41	107840	109248	2017 Mar 30 Thu [10:10]	DevA_ethernet1_41	additionl description from tsv file
+1	42	2486144	2090880	2017 Mar 30 Thu [10:10]	DevA_ethernet1_42	additionl description from tsv file
+1	43	4129792	3807680	2017 Mar 30 Thu [10:10]	DevA_ethernet1_43	additionl description from tsv file
+1	44	576	2373312	2017 Mar 30 Thu [10:10]	DevA_ethernet1_44	additionl description from tsv file
+1	45	0	0	2017 Mar 30 Thu [10:10]	DevA_ethernet1_45	additionl description from tsv file
+1	46	80315614	4096968	2017 Mar 30 Thu [10:10]	DevA_ethernet1_46	additionl description from tsv file
+1	47	-1	-1		DevA_ethernet1_47	
+1	48	-1	-1		DevA_ethernet1_48	
+2	1	2070656	38383744	2017 Mar 30 Thu [10:10]	DevA_ethernet2_1	additionl description from tsv file
+2	2	882496	1476736	2017 Mar 30 Thu [10:10]	DevA_ethernet2_2	additionl description from tsv file
+2	3	3456	3622	2017 Mar 30 Thu [10:10]	DevA_ethernet2_3	additionl description from tsv file
+2	4	2368	10624	2017 Mar 30 Thu [10:10]	DevA_ethernet2_4	additionl description from tsv file
+2	5	64320	65728	2017 Mar 30 Thu [10:10]	DevA_ethernet2_5	additionl description from tsv file
+2	6	229568	225472	2017 Mar 30 Thu [10:10]	DevA_ethernet2_6	additionl description from tsv file
+2	7	21182080	22030208	2017 Mar 30 Thu [10:10]	DevA_ethernet2_7	additionl description from tsv file
+2	8	187968	30080	2017 Mar 30 Thu [10:10]	DevA_ethernet2_8	additionl description from tsv file
+2	9	46016	339200	2017 Mar 30 Thu [10:10]	DevA_ethernet2_9	additionl description from tsv file
+2	10	40000	43712	2017 Mar 30 Thu [10:10]	DevA_ethernet2_10	additionl description from tsv file
+2	11	345728	65856	2017 Mar 30 Thu [10:10]	DevA_ethernet2_11	additionl description from tsv file
+2	12	16384	30528	2017 Mar 30 Thu [10:10]	DevA_ethernet2_12	additionl description from tsv file
+2	13	12672	19392	2017 Mar 30 Thu [10:10]	DevA_ethernet2_13	additionl description from tsv file
+2	14	319744	81856	2017 Mar 30 Thu [10:10]	DevA_ethernet2_14	additionl description from tsv file
+2	15	58206400	56195328	2017 Mar 30 Thu [10:10]	DevA_ethernet2_15	additionl description from tsv file
+2	16	258816	7872	2017 Mar 30 Thu [10:10]	DevA_ethernet2_16	additionl description from tsv file
+2	17	706196019	33317510	2017 Mar 30 Thu [10:10]	DevA_ethernet2_17	additionl description from tsv file
+2	18	118592	136512	2017 Mar 30 Thu [10:10]	DevA_ethernet2_18	additionl description from tsv file
+2	19	1181184	3699904	2017 Mar 30 Thu [10:10]	DevA_ethernet2_19	additionl description from tsv file
+2	20	11129472	12445696	2017 Mar 30 Thu [10:10]	DevA_ethernet2_20	additionl description from tsv file
+2	21	56204480	111972992	2017 Mar 30 Thu [10:10]	DevA_ethernet2_21	additionl description from tsv file
+2	22	448960	437696	2017 Mar 30 Thu [10:10]	DevA_ethernet2_22	additionl description from tsv file
+2	23	273600	770304	2017 Mar 30 Thu [10:10]	DevA_ethernet2_23	additionl description from tsv file
+2	24	43557248	42914880	2017 Mar 30 Thu [10:10]	DevA_ethernet2_24	additionl description from tsv file
+2	25	47648192	139257472	2017 Mar 30 Thu [10:10]	DevA_ethernet2_25	additionl description from tsv file
+2	26	28764608	2497984	2017 Mar 30 Thu [10:10]	DevA_ethernet2_26	additionl description from tsv file
+2	27	478464	2477760	2017 Mar 30 Thu [10:10]	DevA_ethernet2_27	additionl description from tsv file
+2	28	4631168	1105920	2017 Mar 30 Thu [10:10]	DevA_ethernet2_28	additionl description from tsv file
+2	29	4006080	4701888	2017 Mar 30 Thu [10:10]	DevA_ethernet2_29	additionl description from tsv file
+2	30	54042816	269726072	2017 Mar 30 Thu [10:10]	DevA_ethernet2_30	additionl description from tsv file
+2	31	12519360	9515456	2017 Mar 30 Thu [10:10]	DevA_ethernet2_31	additionl description from tsv file
+2	32	64318912	10403584	2017 Mar 30 Thu [10:10]	DevA_ethernet2_32	additionl description from tsv file
+2	33	1351040	8804160	2017 Mar 30 Thu [10:10]	DevA_ethernet2_33	additionl description from tsv file
+2	34	34368	23808	2017 Mar 30 Thu [10:10]	DevA_ethernet2_34	additionl description from tsv file
+2	35	48064	2048	2017 Mar 30 Thu [10:10]	DevA_ethernet2_35	additionl description from tsv file
+2	36	18980544	4890176	2017 Mar 30 Thu [10:10]	DevA_ethernet2_36	additionl description from tsv file
+2	37	295643072	86883776	2017 Mar 30 Thu [10:10]	DevA_ethernet2_37	additionl description from tsv file
+2	38	18383936	840192	2017 Mar 30 Thu [10:10]	DevA_ethernet2_38	additionl description from tsv file
+2	39	43369664	82612992	2017 Mar 30 Thu [10:10]	DevA_ethernet2_39	additionl description from tsv file
+2	40	23936	48192	2017 Mar 30 Thu [10:10]	DevA_ethernet2_40	additionl description from tsv file
+2	41	738781615	65854221	2017 Mar 30 Thu [10:10]	DevA_ethernet2_41	
+2	42	256	14336	2017 Mar 30 Thu [10:10]	DevA_ethernet2_42	additionl description from tsv file
+2	43	1888704	17408	2017 Mar 30 Thu [10:10]	DevA_ethernet2_43	additionl description from tsv file
+2	44	4864	17856	2017 Mar 30 Thu [10:10]	DevA_ethernet2_44	additionl description from tsv file
+2	45	966528	7763	2017 Mar 30 Thu [10:10]	DevA_ethernet2_45	additionl description from tsv file
+2	46	11904	7360	2017 Mar 30 Thu [10:10]	DevA_ethernet2_46	additionl description from tsv file
+2	47	-1	-1		DevA_ethernet2_47	
+2	48	-1	-1		DevA_ethernet2_48	
+3	1	306837183	744933872	2017 Mar 30 Thu [10:10]	DevA_ethernet3_1	additionl description from tsv file
+3	2	495223216	483281376	2017 Mar 30 Thu [10:10]	DevA_ethernet3_2	
+3	3	3520	13696	2017 Mar 30 Thu [10:10]	DevA_ethernet3_3	additionl description from tsv file
+3	4	128	36864	2017 Mar 30 Thu [10:10]	DevA_ethernet3_4	additionl description from tsv file
+3	5	3745635	420953970	2017 Mar 30 Thu [10:10]	DevA_ethernet3_5	
+3	6	654258500	5001598	2017 Mar 30 Thu [10:10]	DevA_ethernet3_6	
+3	7	241264027	3383038	2017 Mar 30 Thu [10:10]	DevA_ethernet3_7	
+3	8	4659519	817281	2017 Mar 30 Thu [10:10]	DevA_ethernet3_8	
+3	9	277547830	71958721	2017 Mar 30 Thu [10:10]	DevA_ethernet3_9	
+3	10	34192098	60859677	2017 Mar 30 Thu [10:10]	DevA_ethernet3_10	
+3	11	67941692	27243798	2017 Mar 30 Thu [10:10]	DevA_ethernet3_11	
+3	12	47983163	46223182	2017 Mar 30 Thu [10:10]	DevA_ethernet3_12	
+3	13	41335407	8934777	2017 Mar 30 Thu [10:10]	DevA_ethernet3_13	
+3	14	5443033	57710870	2017 Mar 30 Thu [10:10]	DevA_ethernet3_14	
+3	15	232596	33162887	2017 Mar 30 Thu [10:10]	DevA_ethernet3_15	
+3	16	422200900	4038231	2017 Mar 30 Thu [10:10]	DevA_ethernet3_16	
+3	17	2547846	14490103	2017 Mar 30 Thu [10:10]	DevA_ethernet3_17	
+3	18	77652279	70075372	2017 Mar 30 Thu [10:10]	DevA_ethernet3_18	
+3	19	69573713	1895961	2017 Mar 30 Thu [10:10]	DevA_ethernet3_19	
+3	20	15006620	52872120	2017 Mar 30 Thu [10:10]	DevA_ethernet3_20	
+3	21	12729792	4845403	2017 Mar 30 Thu [10:10]	DevA_ethernet3_21	
+3	22	6244078	65395440	2017 Mar 30 Thu [10:10]	DevA_ethernet3_22	
+3	23	35447243	9625027	2017 Mar 30 Thu [10:10]	DevA_ethernet3_23	
+3	24	77536452	58074972	2017 Mar 30 Thu [10:10]	DevA_ethernet3_24	
+3	25	696264983	3469545	2017 Mar 30 Thu [10:10]	DevA_ethernet3_25	
+3	26	47502875	40031672	2017 Mar 30 Thu [10:10]	DevA_ethernet3_26	
+3	27	19426940	31853067	2017 Mar 30 Thu [10:10]	DevA_ethernet3_27	
+3	28	17330884	76859769	2017 Mar 30 Thu [10:10]	DevA_ethernet3_28	
+3	29	35863772	48507783	2017 Mar 30 Thu [10:10]	DevA_ethernet3_29	
+3	30	6761634	19839037	2017 Mar 30 Thu [10:10]	DevA_ethernet3_30	
+3	31	627075840	7219067	2017 Mar 30 Thu [10:10]	DevA_ethernet3_31	
+3	32	45454889	50576774	2017 Mar 30 Thu [10:10]	DevA_ethernet3_32	
+3	33	26726056	7958787	2017 Mar 30 Thu [10:10]	DevA_ethernet3_33	
+3	34	19404567	67270898	2017 Mar 30 Thu [10:10]	DevA_ethernet3_34	
+3	35	12134380	34796234	2017 Mar 30 Thu [10:10]	DevA_ethernet3_35	
+3	36	190208	197760	2017 Mar 30 Thu [10:10]	DevA_ethernet3_36	additionl description from tsv file
+4	1	774716608	13120	2017 Mar 30 Thu [10:10]	DevA_ethernet8_1	additionl description from tsv file
+4	2	290820059	596163838	2017 Mar 30 Thu [10:10]	DevA_ethernet8_2	additionl description from tsv file
+4	3	24512	7296	2017 Mar 30 Thu [10:10]	DevA_ethernet8_3	additionl description from tsv file
+4	4	34752	44160	2017 Mar 30 Thu [10:10]	DevA_ethernet8_4	additionl description from tsv file
+4	5	896	3328	2017 Mar 30 Thu [10:10]	DevA_ethernet8_5	additionl description from tsv file
+4	6	733343195	31486084	2017 Mar 30 Thu [10:10]	DevA_ethernet8_6	
+4	7	5988711	19916193	2017 Mar 30 Thu [10:10]	DevA_ethernet8_7	
+4	8	5649377	27552216	2017 Mar 30 Thu [10:10]	DevA_ethernet8_8	
+4	9	67406068	1406597	2017 Mar 30 Thu [10:10]	DevA_ethernet8_9	
+4	10	1278678	68489134	2017 Mar 30 Thu [10:10]	DevA_ethernet8_10	
+4	11	454654901	27861356	2017 Mar 30 Thu [10:10]	DevA_ethernet8_11	
+4	12	53452684	63204794	2017 Mar 30 Thu [10:10]	DevA_ethernet8_12	
+4	13	74559483	54347487	2017 Mar 30 Thu [10:10]	DevA_ethernet8_13	
+4	14	79368163	987338	2017 Mar 30 Thu [10:10]	DevA_ethernet8_14	
+4	15	2884643	55508084	2017 Mar 30 Thu [10:10]	DevA_ethernet8_15	
+4	16	37402482	3773000	2017 Mar 30 Thu [10:10]	DevA_ethernet8_16	
+4	17	51469864	6929959	2017 Mar 30 Thu [10:10]	DevA_ethernet8_17	
+4	18	439452376	9498928	2017 Mar 30 Thu [10:10]	DevA_ethernet8_18	
+4	19	32658725	19251290	2017 Mar 30 Thu [10:10]	DevA_ethernet8_19	
+4	20	21545281	49876114	2017 Mar 30 Thu [10:10]	DevA_ethernet8_20	
+4	21	83259880	42753086	2017 Mar 30 Thu [10:10]	DevA_ethernet8_21	
+4	22	14667839	292040	2017 Mar 30 Thu [10:10]	DevA_ethernet8_22	
+4	23	46606668	83501863	2017 Mar 30 Thu [10:10]	DevA_ethernet8_23	
+4	24	12783050	83645273	2017 Mar 30 Thu [10:10]	DevA_ethernet8_24	additionl description from tsv file
+5	1	18841984	1210496	2017 Mar 30 Thu [10:10]	DevA_ethernet9_1	additionl description from tsv file
+5	2	43200	29888	2017 Mar 30 Thu [10:10]	DevA_ethernet9_2	additionl description from tsv file
+5	3	4373696	4352448	2017 Mar 30 Thu [10:10]	DevA_ethernet9_3	additionl description from tsv file
+5	4	66528320	46082264	2017 Mar 30 Thu [10:10]	DevA_ethernet9_4	additionl description from tsv file
+5	5	325316504	11945696	2017 Mar 30 Thu [10:10]	DevA_ethernet9_5	additionl description from tsv file
+5	6	1594368	3113984	2017 Mar 30 Thu [10:10]	DevA_ethernet9_6	additionl description from tsv file
+5	7	2760576	2768640	2017 Mar 30 Thu [10:10]	DevA_ethernet9_7	additionl description from tsv file
+5	8	171189056	175783040	2017 Mar 30 Thu [10:10]	DevA_ethernet9_8	additionl description from tsv file
+5	9	28928	34624	2017 Mar 30 Thu [10:10]	DevA_ethernet9_9	additionl description from tsv file
+5	10	13685580	178937664	2017 Mar 30 Thu [10:10]	DevA_ethernet9_10	additionl description from tsv file
+5	11	2707584	7862016	2017 Mar 30 Thu [10:10]	DevA_ethernet9_11	additionl description from tsv file
+5	12	10816	19776	2017 Mar 30 Thu [10:10]	DevA_ethernet9_12	additionl description from tsv file
+5	13	513600	531904	2017 Mar 30 Thu [10:10]	DevA_ethernet9_13	additionl description from tsv file
+5	14	276544	275200	2017 Mar 30 Thu [10:10]	DevA_ethernet9_14	additionl description from tsv file
+5	15	204288	276992	2017 Mar 30 Thu [10:10]	DevA_ethernet9_15	additionl description from tsv file
+5	16	1117363	19808256	2017 Mar 30 Thu [10:10]	DevA_ethernet9_16	additionl description from tsv file
+5	17	86134936	574611900	2017 Mar 30 Thu [10:10]	DevA_ethernet9_17	additionl description from tsv file
+5	18	1536	9984	2017 Mar 30 Thu [10:10]	DevA_ethernet9_18	additionl description from tsv file
+5	19	37314854	8998621	2017 Mar 30 Thu [10:10]	DevA_ethernet9_19	additionl description from tsv file
+5	20	2236800	1332864	2017 Mar 30 Thu [10:10]	DevA_ethernet9_20	additionl description from tsv file
+5	21	25960873	67348193	2017 Mar 30 Thu [10:10]	DevA_ethernet9_21	
+5	22	516134613	66296311	2017 Mar 30 Thu [10:10]	DevA_ethernet9_22	
+5	23	811212469	47858667	2017 Mar 30 Thu [10:10]	DevA_ethernet9_23	
+5	24	33102183	46811927	2017 Mar 30 Thu [10:10]	DevA_ethernet9_24	
+5	25	513114084	55144525	2017 Mar 30 Thu [10:10]	DevA_ethernet9_25	
+5	26	67847245	41561295	2017 Mar 30 Thu [10:10]	DevA_ethernet9_26	
+5	27	477167647	80450128	2017 Mar 30 Thu [10:10]	DevA_ethernet9_27	
+5	28	495313581	42003679	2017 Mar 30 Thu [10:10]	DevA_ethernet9_28	
+5	29	467852170	56746978	2017 Mar 30 Thu [10:10]	DevA_ethernet9_29	additionl description from tsv file
+5	30	593228672	58623040	2017 Mar 30 Thu [10:10]	DevA_ethernet9_30	additionl description from tsv file
+5	31	14134976	1455520	2017 Mar 30 Thu [10:10]	DevA_ethernet9_31	additionl description from tsv file
+5	32	34854336	3236864	2017 Mar 30 Thu [10:10]	DevA_ethernet9_32	additionl description from tsv file
+5	33	31642496	2165920	2017 Mar 30 Thu [10:10]	DevA_ethernet9_33	additionl description from tsv file
+5	34	1054848	1236608	2017 Mar 30 Thu [10:10]	DevA_ethernet9_34	additionl description from tsv file
+5	35	23329727	52210074	2017 Mar 30 Thu [10:10]	DevA_ethernet9_35	
+5	36	673442282	9766743	2017 Mar 30 Thu [10:10]	DevA_ethernet9_36	
+5	37	0	1152	2017 Mar 30 Thu [10:10]	DevA_ethernet9_37	additionl description from tsv file
+5	38	0	1152	2017 Mar 30 Thu [10:10]	DevA_ethernet9_38	additionl description from tsv file
+5	39	4021376	5561664	2017 Mar 30 Thu [10:10]	DevA_ethernet9_39	additionl description from tsv file
+5	40	1675648	171776	2017 Mar 30 Thu [10:10]	DevA_ethernet9_40	additionl description from tsv file
+5	41	0	1152	2017 Mar 30 Thu [10:10]	DevA_ethernet9_41	additionl description from tsv file
+5	42	6708008	6790440	2017 Mar 30 Thu [10:10]	DevA_ethernet9_42	additionl description from tsv file
+5	43	-1	-1		DevA_ethernet9_43	
+5	44	-1	-1		DevA_ethernet9_44	
+5	45	-1	-1		DevA_ethernet9_45	
+5	46	-1	-1		DevA_ethernet9_46	
+5	47	-1	-1		DevA_ethernet9_47	
+5	48	-1	-1		DevA_ethernet9_48	
+6	1	39087680	242272104	2017 Mar 30 Thu [10:10]	DevA_ethernet10_1	additionl description from tsv file
+6	2	191697088	342061440	2017 Mar 30 Thu [10:10]	DevA_ethernet10_2	additionl description from tsv file
+6	3	47744	23763	2017 Mar 30 Thu [10:10]	DevA_ethernet10_3	additionl description from tsv file
+6	4	235264	47936	2017 Mar 30 Thu [10:10]	DevA_ethernet10_4	additionl description from tsv file
+6	5	77567552	248269248	2017 Mar 30 Thu [10:10]	DevA_ethernet10_5	additionl description from tsv file
+6	6	13458828	254394240	2017 Mar 30 Thu [10:10]	DevA_ethernet10_6	additionl description from tsv file
+6	7	0	428096	2017 Mar 30 Thu [10:10]	DevA_ethernet10_7	additionl description from tsv file
+6	8	65029683	212350914	2017 Mar 30 Thu [10:10]	DevA_ethernet10_8	
+6	9	51521060	516515456	2017 Mar 30 Thu [10:10]	DevA_ethernet10_9	additionl description from tsv file
+6	10	61909850	158385153	2017 Mar 30 Thu [10:10]	DevA_ethernet10_10	
+6	11	4211422	475402664	2017 Mar 30 Thu [10:10]	DevA_ethernet10_11	additionl description from tsv file
+6	12	55563280	123891072	2017 Mar 30 Thu [10:10]	DevA_ethernet10_12	additionl description from tsv file
+6	13	22926316	436931732	2017 Mar 30 Thu [10:10]	DevA_ethernet10_13	
+6	14	434368	336384	2017 Mar 30 Thu [10:10]	DevA_ethernet10_14	additionl description from tsv file
+6	15	12053528	617465312	2017 Mar 30 Thu [10:10]	DevA_ethernet10_15	additionl description from tsv file
+6	16	38720	50560	2017 Mar 30 Thu [10:10]	DevA_ethernet10_16	additionl description from tsv file
+6	17	72531230	80165556	2017 Mar 30 Thu [10:10]	DevA_ethernet10_17	
+6	18	71188160	2306944	2017 Mar 30 Thu [10:10]	DevA_ethernet10_18	additionl description from tsv file
+6	19	37802441	60067319	2017 Mar 30 Thu [10:10]	DevA_ethernet10_19	
+6	20	49111470	83527329	2017 Mar 30 Thu [10:10]	DevA_ethernet10_20	
+6	21	76987747	3188376	2017 Mar 30 Thu [10:10]	DevA_ethernet10_21	
+6	22	8430470	67246838	2017 Mar 30 Thu [10:10]	DevA_ethernet10_22	
+6	23	75289190	47685588	2017 Mar 30 Thu [10:10]	DevA_ethernet10_23	
+6	24	21542739	549983	2017 Mar 30 Thu [10:10]	DevA_ethernet10_24	
+6	25	18522120	5301717	2017 Mar 30 Thu [10:10]	DevA_ethernet10_25	
+6	26	8701835	72984457	2017 Mar 30 Thu [10:10]	DevA_ethernet10_26	
+6	27	231319	3631170	2017 Mar 30 Thu [10:10]	DevA_ethernet10_27	
+6	28	32785074	30761172	2017 Mar 30 Thu [10:10]	DevA_ethernet10_28	
+6	29	2207997	61791167	2017 Mar 30 Thu [10:10]	DevA_ethernet10_29	
+6	30	55300131	9561999	2017 Mar 30 Thu [10:10]	DevA_ethernet10_30	
+6	31	5835542	67582518	2017 Mar 30 Thu [10:10]	DevA_ethernet10_31	
+6	32	63380197	8358426	2017 Mar 30 Thu [10:10]	DevA_ethernet10_32	
+6	33	46645141	14104205	2017 Mar 30 Thu [10:10]	DevA_ethernet10_33	
+6	34	27082905	17188529	2017 Mar 30 Thu [10:10]	DevA_ethernet10_34	
+6	35	27282953	27566789	2017 Mar 30 Thu [10:10]	DevA_ethernet10_35	
+6	36	422114	82754853	2017 Mar 30 Thu [10:10]	DevA_ethernet10_36	
+6	37	34738957	70749620	2017 Mar 30 Thu [10:10]	DevA_ethernet10_37	additionl description from tsv file
+6	38	8818056	81329807	2017 Mar 30 Thu [10:10]	DevA_ethernet10_38	
+6	39	38951949	6079664	2017 Mar 30 Thu [10:10]	DevA_ethernet10_39	additionl description from tsv file
+6	40	46005345	8196791	2017 Mar 30 Thu [10:10]	DevA_ethernet10_40	additionl description from tsv file
+6	41	-1	-1		DevA_ethernet10_41	
+6	42	-1	-1		DevA_ethernet10_42	
+6	43	-1	-1		DevA_ethernet10_43	
+6	44	-1	-1		DevA_ethernet10_44	
+6	45	-1	-1		DevA_ethernet10_45	
+6	46	-1	-1		DevA_ethernet10_46	
+6	47	-1	-1		DevA_ethernet10_47	
+6	48	-1	-1		DevA_ethernet10_48	
+7	1	65024	280960	2017 Mar 30 Thu [10:10]	DevB_ethernet1_1	additionl description from tsv file
+7	2	37760	31808	2017 Mar 30 Thu [10:10]	DevB_ethernet1_2	additionl description from tsv file
+7	3	47150900	7259742	2017 Mar 30 Thu [10:10]	DevB_ethernet1_3	additionl description from tsv file
+7	4	512	14016	2017 Mar 30 Thu [10:10]	DevB_ethernet1_4	additionl description from tsv file
+7	5	71211176	52003029	2017 Mar 30 Thu [10:10]	DevB_ethernet1_5	additionl description from tsv file
+7	6	48106930	80756118	2017 Mar 30 Thu [10:10]	DevB_ethernet1_6	
+7	7	824916759	105087439	2017 Mar 30 Thu [10:10]	DevB_ethernet1_7	
+7	8	6876206	751358131	2017 Mar 30 Thu [10:10]	DevB_ethernet1_8	
+7	9	7713918	266043103	2017 Mar 30 Thu [10:10]	DevB_ethernet1_9	
+7	10	785991535	679322800	2017 Mar 30 Thu [10:10]	DevB_ethernet1_10	
+7	11	5696	12800	2017 Mar 30 Thu [10:10]	DevB_ethernet1_11	additionl description from tsv file
+7	12	0	7360	2017 Mar 30 Thu [10:10]	DevB_ethernet1_12	additionl description from tsv file
+7	13	238168129	326375676	2017 Mar 30 Thu [10:10]	DevB_ethernet1_13	
+7	14	491039599	398545177	2017 Mar 30 Thu [10:10]	DevB_ethernet1_14	
+7	15	830293837	653061915	2017 Mar 30 Thu [10:10]	DevB_ethernet1_15	
+7	16	16263872	130165308	2017 Mar 30 Thu [10:10]	DevB_ethernet1_16	
+7	17	628032	1788608	2017 Mar 30 Thu [10:10]	DevB_ethernet1_17	additionl description from tsv file
+7	18	165641153	167197770	2017 Mar 30 Thu [10:10]	DevB_ethernet1_18	
+7	19	0	116544	2017 Mar 30 Thu [10:10]	DevB_ethernet1_19	additionl description from tsv file
+7	20	0	161984	2017 Mar 30 Thu [10:10]	DevB_ethernet1_20	additionl description from tsv file
+7	21	752186476	311450566	2017 Mar 30 Thu [10:10]	DevB_ethernet1_21	
+7	22	424042774	718220796	2017 Mar 30 Thu [10:10]	DevB_ethernet1_22	
+7	23	54538716	686866703	2017 Mar 30 Thu [10:10]	DevB_ethernet1_23	
+7	24	545571932	619213113	2017 Mar 30 Thu [10:10]	DevB_ethernet1_24	
+7	25	1024	7360	2017 Mar 30 Thu [10:10]	DevB_ethernet1_25	additionl description from tsv file
+7	26	58569715	220143792	2017 Mar 30 Thu [10:10]	DevB_ethernet1_26	additionl description from tsv file
+7	27	1024	12736	2017 Mar 30 Thu [10:10]	DevB_ethernet1_27	additionl description from tsv file
+7	28	5696	19072	2017 Mar 30 Thu [10:10]	DevB_ethernet1_28	additionl description from tsv file
+7	29	4992	18176	2017 Mar 30 Thu [10:10]	DevB_ethernet1_29	additionl description from tsv file
+7	30	16256	25856	2017 Mar 30 Thu [10:10]	DevB_ethernet1_30	additionl description from tsv file
+7	31	960	7488	2017 Mar 30 Thu [10:10]	DevB_ethernet1_31	additionl description from tsv file
+7	32	1024	7616	2017 Mar 30 Thu [10:10]	DevB_ethernet1_32	additionl description from tsv file
+7	33	122387595	464945638	2017 Mar 30 Thu [10:10]	DevB_ethernet1_33	
+7	34	552637069	62216980	2017 Mar 30 Thu [10:10]	DevB_ethernet1_34	
+7	35	646949675	31073254	2017 Mar 30 Thu [10:10]	DevB_ethernet1_35	
+7	36	406804341	121025368	2017 Mar 30 Thu [10:10]	DevB_ethernet1_36	
+7	37	724056527	112791997	2017 Mar 30 Thu [10:10]	DevB_ethernet1_37	
+7	38	218915673	692310269	2017 Mar 30 Thu [10:10]	DevB_ethernet1_38	
+7	39	647635115	70529555	2017 Mar 30 Thu [10:10]	DevB_ethernet1_39	
+7	40	552884529	103205769	2017 Mar 30 Thu [10:10]	DevB_ethernet1_40	
+7	41	0	0	2017 Mar 09 Thu [14:35]	DevB_ethernet1_41	additionl description from tsv file
+7	42	2752	9024	2017 Mar 30 Thu [10:10]	DevB_ethernet1_42	additionl description from tsv file
+7	43	0	0	2017 Mar 09 Thu [14:35]	DevB_ethernet1_43	additionl description from tsv file
+7	44	281458760	9399794	2017 Mar 30 Thu [10:10]	DevB_ethernet1_44	
+7	45	550404623	1953928	2017 Mar 30 Thu [10:10]	DevB_ethernet1_45	
+7	46	576	0	2017 Mar 30 Thu [10:10]	DevB_ethernet1_46	additionl description from tsv file
+7	47	-1	-1		DevB_ethernet1_47	additionl description from tsv file
+7	48	-1	-1		DevB_ethernet1_48	additionl description from tsv file
+8	1	832	2432	2017 Mar 30 Thu [10:10]	DevB_ethernet2_1	additionl description from tsv file
+8	2	11733248	5256	2017 Mar 30 Thu [10:10]	DevB_ethernet2_2	additionl description from tsv file
+8	3	1138752	1695168	2017 Mar 30 Thu [10:10]	DevB_ethernet2_3	additionl description from tsv file
+8	4	896	7360	2017 Mar 30 Thu [10:10]	DevB_ethernet2_4	additionl description from tsv file
+8	5	747053198	810445685	2017 Mar 30 Thu [10:10]	DevB_ethernet2_5	
+8	6	21888	17600	2017 Mar 30 Thu [10:10]	DevB_ethernet2_6	additionl description from tsv file
+8	7	4839104	2313728	2017 Mar 30 Thu [10:10]	DevB_ethernet2_7	additionl description from tsv file
+8	8	201728	326592	2017 Mar 30 Thu [10:10]	DevB_ethernet2_8	additionl description from tsv file
+8	9	448	13824	2017 Mar 30 Thu [10:10]	DevB_ethernet2_9	additionl description from tsv file
+8	10	448	7424	2017 Mar 30 Thu [10:10]	DevB_ethernet2_10	additionl description from tsv file
+8	11	448	7360	2017 Mar 30 Thu [10:10]	DevB_ethernet2_11	additionl description from tsv file
+8	12	448	7936	2017 Mar 30 Thu [10:10]	DevB_ethernet2_12	additionl description from tsv file
+8	13	776820105	511105094	2017 Mar 30 Thu [10:10]	DevB_ethernet2_13	additionl description from tsv file
+8	14	1216	37760	2017 Mar 30 Thu [10:10]	DevB_ethernet2_14	additionl description from tsv file
+8	15	3136	9024	2017 Mar 30 Thu [10:10]	DevB_ethernet2_15	additionl description from tsv file
+8	16	1856	8960	2017 Mar 30 Thu [10:10]	DevB_ethernet2_16	additionl description from tsv file
+8	17	1728	8896	2017 Mar 30 Thu [10:10]	DevB_ethernet2_17	additionl description from tsv file
+8	18	1728	8960	2017 Mar 30 Thu [10:10]	DevB_ethernet2_18	additionl description from tsv file
+8	19	15936	9216	2017 Mar 30 Thu [10:10]	DevB_ethernet2_19	additionl description from tsv file
+8	20	1728	9088	2017 Mar 30 Thu [10:10]	DevB_ethernet2_20	additionl description from tsv file
+8	21	1728	9152	2017 Mar 30 Thu [10:10]	DevB_ethernet2_21	additionl description from tsv file
+8	22	1728	8896	2017 Mar 30 Thu [10:10]	DevB_ethernet2_22	additionl description from tsv file
+8	23	128	13504	2017 Mar 30 Thu [10:10]	DevB_ethernet2_23	additionl description from tsv file
+8	24	128	7936	2017 Mar 30 Thu [10:10]	DevB_ethernet2_24	additionl description from tsv file
+8	25	128	7808	2017 Mar 30 Thu [10:10]	DevB_ethernet2_25	additionl description from tsv file
+8	26	128	722	2017 Mar 30 Thu [10:10]	DevB_ethernet2_26	additionl description from tsv file
+8	27	512	18304	2017 Mar 30 Thu [10:10]	DevB_ethernet2_27	additionl description from tsv file
+8	28	480192	2560	2017 Mar 30 Thu [10:10]	DevB_ethernet2_28	additionl description from tsv file
+8	29	12992	27008	2017 Mar 30 Thu [10:10]	DevB_ethernet2_29	additionl description from tsv file
+8	30	10304	28928	2017 Mar 30 Thu [10:10]	DevB_ethernet2_30	additionl description from tsv file
+8	31	24354944	9953088	2017 Mar 30 Thu [10:10]	DevB_ethernet2_31	additionl description from tsv file
+8	32	13048000	436541165	2017 Mar 30 Thu [10:10]	DevB_ethernet2_32	
+8	33	384	7360	2017 Mar 30 Thu [10:10]	DevB_ethernet2_33	additionl description from tsv file
+8	34	896	13696	2017 Mar 30 Thu [10:10]	DevB_ethernet2_34	additionl description from tsv file
+8	35	896	7360	2017 Mar 30 Thu [10:10]	DevB_ethernet2_35	additionl description from tsv file
+8	36	26240	1222	2017 Mar 30 Thu [10:10]	DevB_ethernet2_36	additionl description from tsv file
+8	37	12480	1222	2017 Mar 30 Thu [10:10]	DevB_ethernet2_37	additionl description from tsv file
+8	38	12288	360960	2017 Mar 30 Thu [10:10]	DevB_ethernet2_38	additionl description from tsv file
+8	39	47085317	703789424	2017 Mar 30 Thu [10:10]	DevB_ethernet2_39	
+8	40	209361031	318528498	2017 Mar 30 Thu [10:10]	DevB_ethernet2_40	
+8	41	0	14016	2017 Mar 30 Thu [10:10]	DevB_ethernet2_41	additionl description from tsv file
+8	42	5312	18112	2017 Mar 30 Thu [10:10]	DevB_ethernet2_42	additionl description from tsv file
+8	43	0	14016	2017 Mar 30 Thu [10:10]	DevB_ethernet2_43	additionl description from tsv file
+8	44	320	14272	2017 Mar 30 Thu [10:10]	DevB_ethernet2_44	additionl description from tsv file
+8	45	396078495	520616823	2017 Mar 30 Thu [10:10]	DevB_ethernet2_45	
+8	46	494290646	587014165	2017 Mar 30 Thu [10:10]	DevB_ethernet2_46	
+8	47	1195204	662023483	2017 Mar 30 Thu [10:10]	DevB_ethernet2_47	
+8	48	128	14656	2017 Mar 30 Thu [10:10]	DevB_ethernet2_48	additionl description from tsv file
+9	1	46981711	6604876	2017 Mar 30 Thu [10:10]	DevB_ethernet3_1	
+9	2	761088	937088	2017 Mar 30 Thu [10:10]	DevB_ethernet3_2	additionl description from tsv file
+9	3	784510425	147027198	2017 Mar 30 Thu [10:10]	DevB_ethernet3_3	
+9	4	286567755	70250512	2017 Mar 30 Thu [10:10]	DevB_ethernet3_4	
+9	5	13332839	52778931	2017 Mar 30 Thu [10:10]	DevB_ethernet3_5	
+9	6	775957659	367021232	2017 Mar 30 Thu [10:10]	DevB_ethernet3_6	
+9	7	587875637	287865566	2017 Mar 30 Thu [10:10]	DevB_ethernet3_7	
+9	8	261818794	295570767	2017 Mar 30 Thu [10:10]	DevB_ethernet3_8	
+9	9	263077859	98058939	2017 Mar 30 Thu [10:10]	DevB_ethernet3_9	
+9	10	639426431	5316012	2017 Mar 30 Thu [10:10]	DevB_ethernet3_10	
+9	11	560042728	30548590	2017 Mar 30 Thu [10:10]	DevB_ethernet3_11	
+9	12	311083052	7013133	2017 Mar 30 Thu [10:10]	DevB_ethernet3_12	
+9	13	521170543	8018515	2017 Mar 30 Thu [10:10]	DevB_ethernet3_13	
+9	14	702368349	2386103	2017 Mar 30 Thu [10:10]	DevB_ethernet3_14	
+9	15	353077635	853550	2017 Mar 30 Thu [10:10]	DevB_ethernet3_15	
+9	16	393775377	2994164	2017 Mar 30 Thu [10:10]	DevB_ethernet3_16	
+9	17	81750379	1951559	2017 Mar 30 Thu [10:10]	DevB_ethernet3_17	
+9	18	747175487	1425595	2017 Mar 30 Thu [10:10]	DevB_ethernet3_18	
+9	19	688309677	2867229	2017 Mar 30 Thu [10:10]	DevB_ethernet3_19	
+9	20	785226602	835995	2017 Mar 30 Thu [10:10]	DevB_ethernet3_20	
+9	21	713496	2739888	2017 Mar 30 Thu [10:10]	DevB_ethernet3_21	
+9	22	735999468	10738875	2017 Mar 30 Thu [10:10]	DevB_ethernet3_22	
+9	23	821565076	9770530	2017 Mar 30 Thu [10:10]	DevB_ethernet3_23	
+9	24	120469268	24265167	2017 Mar 30 Thu [10:10]	DevB_ethernet3_24	
+9	25	225393592	44121255	2017 Mar 30 Thu [10:10]	DevB_ethernet3_25	
+9	26	231940787	80069045	2017 Mar 30 Thu [10:10]	DevB_ethernet3_26	
+9	27	303022084	26695913	2017 Mar 30 Thu [10:10]	DevB_ethernet3_27	
+9	28	737579354	79307854	2017 Mar 30 Thu [10:10]	DevB_ethernet3_28	
+9	29	307963453	18335577	2017 Mar 30 Thu [10:10]	DevB_ethernet3_29	
+9	30	514418135	83602356	2017 Mar 30 Thu [10:10]	DevB_ethernet3_30	
+9	31	78318106	43571210	2017 Mar 30 Thu [10:10]	DevB_ethernet3_31	
+9	32	771479597	1660287	2017 Mar 30 Thu [10:10]	DevB_ethernet3_32	
+9	33	261089282	39436760	2017 Mar 30 Thu [10:10]	DevB_ethernet3_33	
+9	34	493972128	15046227	2017 Mar 30 Thu [10:10]	DevB_ethernet3_34	
+9	35	445788825	55722655	2017 Mar 30 Thu [10:10]	DevB_ethernet3_35	
+9	36	106176	102656	2017 Mar 30 Thu [10:10]	DevB_ethernet3_36	additionl description from tsv file
+10	1	10112	28363648	2017 Mar 30 Thu [10:10]	DevB_ethernet8_1	additionl description from tsv file
+10	2	51939028	6140070	2017 Mar 30 Thu [10:10]	DevB_ethernet8_2	additionl description from tsv file
+10	3	80749529	792894707	2017 Mar 30 Thu [10:10]	DevB_ethernet8_3	
+10	4	7795960	373015351	2017 Mar 30 Thu [10:10]	DevB_ethernet8_4	
+10	5	82902496	770021020	2017 Mar 30 Thu [10:10]	DevB_ethernet8_5	
+10	6	53711870	575010119	2017 Mar 30 Thu [10:10]	DevB_ethernet8_6	
+10	7	7401235	231928277	2017 Mar 30 Thu [10:10]	DevB_ethernet8_7	
+10	8	21241082	553553753	2017 Mar 30 Thu [10:10]	DevB_ethernet8_8	
+10	9	28926295	12468274	2017 Mar 30 Thu [10:10]	DevB_ethernet8_9	
+10	10	63603988	55288251	2017 Mar 30 Thu [10:10]	DevB_ethernet8_10	
+10	11	49324214	73862951	2017 Mar 30 Thu [10:10]	DevB_ethernet8_11	
+10	12	4063714	34623895	2017 Mar 30 Thu [10:10]	DevB_ethernet8_12	
+10	13	47238542	510392	2017 Mar 30 Thu [10:10]	DevB_ethernet8_13	
+10	14	574937	30854013	2017 Mar 30 Thu [10:10]	DevB_ethernet8_14	
+10	15	53293515	305364816	2017 Mar 30 Thu [10:10]	DevB_ethernet8_15	
+10	16	9614372	55051068	2017 Mar 30 Thu [10:10]	DevB_ethernet8_16	
+10	17	73378998	77549997	2017 Mar 30 Thu [10:10]	DevB_ethernet8_17	
+10	18	814129221	14409446	2017 Mar 30 Thu [10:10]	DevB_ethernet8_18	
+10	19	59033891	42676685	2017 Mar 30 Thu [10:10]	DevB_ethernet8_19	
+10	20	37887779	6532370	2017 Mar 30 Thu [10:10]	DevB_ethernet8_20	
+10	21	53760991	393848	2017 Mar 30 Thu [10:10]	DevB_ethernet8_21	
+10	22	48540214	9520312	2017 Mar 30 Thu [10:10]	DevB_ethernet8_22	
+10	23	33657126	67954721	2017 Mar 30 Thu [10:10]	DevB_ethernet8_23	
+10	24	3128694	82775931	2017 Mar 30 Thu [10:10]	DevB_ethernet8_24	
+11	1	0	3766	2017 Mar 30 Thu [10:10]	DevB_ethernet9_1	additionl description from tsv file
+11	2	320	724	2017 Mar 30 Thu [10:10]	DevB_ethernet9_2	additionl description from tsv file
+11	3	320	9408	2017 Mar 30 Thu [10:10]	DevB_ethernet9_3	additionl description from tsv file
+11	4	320	908	2017 Mar 30 Thu [10:10]	DevB_ethernet9_4	additionl description from tsv file
+11	5	320	8512	2017 Mar 30 Thu [10:10]	DevB_ethernet9_5	additionl description from tsv file
+11	6	512	7424	2017 Mar 30 Thu [10:10]	DevB_ethernet9_6	additionl description from tsv file
+11	7	512	7744	2017 Mar 30 Thu [10:10]	DevB_ethernet9_7	additionl description from tsv file
+11	8	512	16192	2017 Mar 30 Thu [10:10]	DevB_ethernet9_8	additionl description from tsv file
+11	9	512	9152	2017 Mar 30 Thu [10:10]	DevB_ethernet9_9	additionl description from tsv file
+11	10	512	8192	2017 Mar 30 Thu [10:10]	DevB_ethernet9_10	additionl description from tsv file
+11	11	832	9472	2017 Mar 30 Thu [10:10]	DevB_ethernet9_11	additionl description from tsv file
+11	12	2880	9216	2017 Mar 30 Thu [10:10]	DevB_ethernet9_12	additionl description from tsv file
+11	13	8704	8768	2017 Mar 30 Thu [10:10]	DevB_ethernet9_13	additionl description from tsv file
+11	14	2112	8640	2017 Mar 30 Thu [10:10]	DevB_ethernet9_14	additionl description from tsv file
+11	15	67072	3456	2017 Mar 30 Thu [10:10]	DevB_ethernet9_15	additionl description from tsv file
+11	16	0	11008	2017 Mar 30 Thu [10:10]	DevB_ethernet9_16	additionl description from tsv file
+11	17	671221458	821254626	2017 Mar 30 Thu [10:10]	DevB_ethernet9_17	additionl description from tsv file
+11	18	1984	8576	2017 Mar 30 Thu [10:10]	DevB_ethernet9_18	additionl description from tsv file
+11	19	819328721	7199634	2017 Mar 30 Thu [10:10]	DevB_ethernet9_19	additionl description from tsv file
+11	20	680440273	6037169	2017 Mar 30 Thu [10:10]	DevB_ethernet9_20	
+11	21	102064812	4522808	2017 Mar 30 Thu [10:10]	DevB_ethernet9_21	
+11	22	1641884	4421556	2017 Mar 30 Thu [10:10]	DevB_ethernet9_22	
+11	23	16122501	6758100	2017 Mar 30 Thu [10:10]	DevB_ethernet9_23	
+11	24	22006098	2430361	2017 Mar 30 Thu [10:10]	DevB_ethernet9_24	
+11	25	22578152	2985328	2017 Mar 30 Thu [10:10]	DevB_ethernet9_25	
+11	26	80249838	2136245	2017 Mar 30 Thu [10:10]	DevB_ethernet9_26	
+11	27	13591324	271800	2017 Mar 30 Thu [10:10]	DevB_ethernet9_27	
+11	28	75920228	7472919	2017 Mar 30 Thu [10:10]	DevB_ethernet9_28	
+11	29	37518838	44834952	2017 Mar 30 Thu [10:10]	DevB_ethernet9_29	additionl description from tsv file
+11	30	8960	41088	2017 Mar 30 Thu [10:10]	DevB_ethernet9_30	additionl description from tsv file
+11	31	32128	9216	2017 Mar 30 Thu [10:10]	DevB_ethernet9_31	additionl description from tsv file
+11	32	72520	171968	2017 Mar 30 Thu [10:10]	DevB_ethernet9_32	additionl description from tsv file
+11	33	1608220	146688	2017 Mar 30 Thu [10:10]	DevB_ethernet9_33	additionl description from tsv file
+11	34	485824	822208	2017 Mar 30 Thu [10:10]	DevB_ethernet9_34	additionl description from tsv file
+11	35	598891711	685045754	2017 Mar 30 Thu [10:10]	DevB_ethernet9_35	
+11	36	245882730	602176139	2017 Mar 30 Thu [10:10]	DevB_ethernet9_36	
+11	37	0	0	2017 Mar 30 Thu [10:10]	DevB_ethernet9_37	additionl description from tsv file
+11	38	0	0	2017 Mar 30 Thu [10:10]	DevB_ethernet9_38	additionl description from tsv file
+11	39	0	23360	2017 Mar 30 Thu [10:10]	DevB_ethernet9_39	additionl description from tsv file
+11	40	0	8000	2017 Mar 30 Thu [10:10]	DevB_ethernet9_40	additionl description from tsv file
+11	41	0	0	2017 Mar 30 Thu [10:10]	DevB_ethernet9_41	additionl description from tsv file
+11	42	0	15488	2017 Mar 30 Thu [10:10]	DevB_ethernet9_42	additionl description from tsv file
+11	43	-1	-1		DevB_ethernet9_43	
+11	44	-1	-1		DevB_ethernet9_44	
+11	45	-1	-1		DevB_ethernet9_45	
+11	46	-1	-1		DevB_ethernet9_46	
+11	47	-1	-1		DevB_ethernet9_47	
+11	48	-1	-1		DevB_ethernet9_48	
+12	1	306739456	41094272	2017 Mar 30 Thu [10:10]	DevB_ethernet10_1	additionl description from tsv file
+12	2	4413630	711970624	2017 Mar 30 Thu [10:10]	DevB_ethernet10_2	additionl description from tsv file
+12	3	236480	47488	2017 Mar 30 Thu [10:10]	DevB_ethernet10_3	additionl description from tsv file
+12	4	47680	234176	2017 Mar 30 Thu [10:10]	DevB_ethernet10_4	additionl description from tsv file
+12	5	247736064	77364288	2017 Mar 30 Thu [10:10]	DevB_ethernet10_5	additionl description from tsv file
+12	6	251025536	13339712	2017 Mar 30 Thu [10:10]	DevB_ethernet10_6	additionl description from tsv file
+12	7	160301568	482840896	2017 Mar 30 Thu [10:10]	DevB_ethernet10_7	additionl description from tsv file
+12	8	298863640	446144286	2017 Mar 30 Thu [10:10]	DevB_ethernet10_8	
+12	9	0	691776	2017 Mar 30 Thu [10:10]	DevB_ethernet10_9	additionl description from tsv file
+12	10	781151382	425929083	2017 Mar 30 Thu [10:10]	DevB_ethernet10_10	
+12	11	0	479616	2017 Mar 30 Thu [10:10]	DevB_ethernet10_11	additionl description from tsv file
+12	12	0	16384	2017 Mar 30 Thu [10:10]	DevB_ethernet10_12	additionl description from tsv file
+12	13	110031094	314287080	2017 Mar 30 Thu [10:10]	DevB_ethernet10_13	
+12	14	7168	102784	2017 Mar 30 Thu [10:10]	DevB_ethernet10_14	additionl description from tsv file
+12	15	21517312	15232	2017 Mar 30 Thu [10:10]	DevB_ethernet10_15	additionl description from tsv file
+12	16	788928	543872	2017 Mar 30 Thu [10:10]	DevB_ethernet10_16	additionl description from tsv file
+12	17	960	960	2017 Mar 30 Thu [10:10]	DevB_ethernet10_17	additionl description from tsv file
+12	18	69869984	23003648	2017 Mar 30 Thu [10:10]	DevB_ethernet10_18	additionl description from tsv file
+12	19	-1	-1		DevB_ethernet10_19	
+12	20	-1	-1		DevB_ethernet10_20	
+12	21	-1	-1		DevB_ethernet10_21	
+12	22	-1	-1		DevB_ethernet10_22	
+12	23	-1	-1		DevB_ethernet10_23	
+12	24	-1	-1		DevB_ethernet10_24	
+12	25	-1	-1		DevB_ethernet10_25	
+12	26	-1	-1		DevB_ethernet10_26	
+12	27	-1	-1		DevB_ethernet10_27	
+12	28	-1	-1		DevB_ethernet10_28	
+12	29	-1	-1		DevB_ethernet10_29	
+12	30	-1	-1		DevB_ethernet10_30	
+12	31	-1	-1		DevB_ethernet10_31	
+12	32	-1	-1		DevB_ethernet10_32	
+12	33	-1	-1		DevB_ethernet10_33	
+12	34	-1	-1		DevB_ethernet10_34	
+12	35	-1	-1		DevB_ethernet10_35	
+12	36	-1	-1		DevB_ethernet10_36	
+12	37	-1	-1		DevB_ethernet10_37	
+12	38	-1	-1		DevB_ethernet10_38	
+12	39	-1	-1		DevB_ethernet10_39	
+12	40	-1	-1		DevB_ethernet10_40	
+12	41	-1	-1		DevB_ethernet10_41	
+12	42	-1	-1		DevB_ethernet10_42	
+12	43	-1	-1		DevB_ethernet10_43	
+12	44	-1	-1		DevB_ethernet10_44	
+12	45	-1	-1		DevB_ethernet10_45	
+12	46	-1	-1		DevB_ethernet10_46	
+12	47	-1	-1		DevB_ethernet10_47	
+12	48	243965588	69221749	2017 Mar 30 Thu [10:10]	DevB_ethernet10_48	additionl description from tsv file
+13	1	9152	14333120	2017 Mar 30 Thu [10:10]	DevC_ethernet1_1	additionl description from tsv file
+13	2	42688	3622	2017 Mar 30 Thu [10:10]	DevC_ethernet1_2	additionl description from tsv file
+13	3	69120	49984	2017 Mar 30 Thu [10:10]	DevC_ethernet1_3	additionl description from tsv file
+13	4	1920	1740480	2017 Mar 30 Thu [10:10]	DevC_ethernet1_4	additionl description from tsv file
+13	5	37564643	529355887	2017 Mar 30 Thu [10:10]	DevC_ethernet1_5	additionl description from tsv file
+13	6	410957690	587935283	2017 Mar 30 Thu [10:10]	DevC_ethernet1_6	additionl description from tsv file
+13	7	84886517	317764607	2017 Mar 30 Thu [10:10]	DevC_ethernet1_7	
+13	8	314511747	631597312	2017 Mar 30 Thu [10:10]	DevC_ethernet1_8	
+13	9	754473305	392105865	2017 Mar 30 Thu [10:10]	DevC_ethernet1_9	
+13	10	734451661	62033155	2017 Mar 30 Thu [10:10]	DevC_ethernet1_10	
+13	11	36303488	205915520	2017 Mar 30 Thu [10:10]	DevC_ethernet1_11	additionl description from tsv file
+13	12	15947584	4724160	2017 Mar 30 Thu [10:10]	DevC_ethernet1_12	additionl description from tsv file
+13	13	273529327	150447812	2017 Mar 30 Thu [10:10]	DevC_ethernet1_13	additionl description from tsv file
+13	14	361768466	4206386	2017 Mar 30 Thu [10:10]	DevC_ethernet1_14	
+13	15	8270064	311159333	2017 Mar 30 Thu [10:10]	DevC_ethernet1_15	additionl description from tsv file
+13	16	0	19008	2017 Mar 30 Thu [10:10]	DevC_ethernet1_16	additionl description from tsv file
+13	17	76299839	595967172	2017 Mar 30 Thu [10:10]	DevC_ethernet1_17	
+13	18	365112363	118515708	2017 Mar 30 Thu [10:10]	DevC_ethernet1_18	
+13	19	570705433	742434901	2017 Mar 30 Thu [10:10]	DevC_ethernet1_19	
+13	20	70495905	726307176	2017 Mar 30 Thu [10:10]	DevC_ethernet1_20	
+13	21	560488285	410179478	2017 Mar 30 Thu [10:10]	DevC_ethernet1_21	
+13	22	205346832	72793863	2017 Mar 30 Thu [10:10]	DevC_ethernet1_22	
+13	23	765316371	192987254	2017 Mar 30 Thu [10:10]	DevC_ethernet1_23	
+13	24	13662425	355874884	2017 Mar 30 Thu [10:10]	DevC_ethernet1_24	
+13	25	287383549	13105778	2017 Mar 30 Thu [10:10]	DevC_ethernet1_25	
+13	26	7839502	586707328	2017 Mar 30 Thu [10:10]	DevC_ethernet1_26	
+13	27	41024	39168	2017 Mar 30 Thu [10:10]	DevC_ethernet1_27	additionl description from tsv file
+13	28	937152	39851136	2017 Mar 30 Thu [10:10]	DevC_ethernet1_28	additionl description from tsv file
+13	29	19648	18176	2017 Mar 30 Thu [10:10]	DevC_ethernet1_29	additionl description from tsv file
+13	30	496128	58963	2017 Mar 30 Thu [10:10]	DevC_ethernet1_30	additionl description from tsv file
+13	31	28864	6976	2017 Mar 30 Thu [10:10]	DevC_ethernet1_31	additionl description from tsv file
+13	32	23324	7040	2017 Mar 30 Thu [10:10]	DevC_ethernet1_32	additionl description from tsv file
+13	33	14656	6848	2017 Mar 30 Thu [10:10]	DevC_ethernet1_33	additionl description from tsv file
+13	34	19776	6848	2017 Mar 30 Thu [10:10]	DevC_ethernet1_34	additionl description from tsv file
+13	35	505728	129600	2017 Mar 30 Thu [10:10]	DevC_ethernet1_35	additionl description from tsv file
+13	36	1984	8320	2017 Mar 30 Thu [10:10]	DevC_ethernet1_36	additionl description from tsv file
+13	37	495914765	585354529	2017 Mar 30 Thu [10:10]	DevC_ethernet1_37	additionl description from tsv file
+13	38	588807038	98778188	2017 Mar 30 Thu [10:10]	DevC_ethernet1_38	additionl description from tsv file
+13	39	283127575	145174888	2017 Mar 30 Thu [10:10]	DevC_ethernet1_39	
+13	40	280029455	448852773	2017 Mar 30 Thu [10:10]	DevC_ethernet1_40	
+13	41	65408	53248	2017 Mar 30 Thu [10:10]	DevC_ethernet1_41	additionl description from tsv file
+13	42	138048	735232	2017 Mar 30 Thu [10:10]	DevC_ethernet1_42	additionl description from tsv file
+13	43	1600	7936	2017 Mar 30 Thu [10:10]	DevC_ethernet1_43	additionl description from tsv file
+13	44	76850234	496638826	2017 Mar 30 Thu [10:10]	DevC_ethernet1_44	
+13	45	576	0	2017 Mar 30 Thu [10:10]	DevC_ethernet1_45	additionl description from tsv file
+13	46	73700937	560590989	2017 Mar 30 Thu [10:10]	DevC_ethernet1_46	additionl description from tsv file
+13	47	155115583	650059935	2017 Mar 30 Thu [10:10]	DevC_ethernet1_47	
+13	48	156260562	121491255	2017 Mar 30 Thu [10:10]	DevC_ethernet1_48	
+14	1	40268864	2098880	2017 Mar 30 Thu [10:10]	DevC_ethernet2_1	additionl description from tsv file
+14	2	4608	25984	2017 Mar 30 Thu [10:10]	DevC_ethernet2_2	additionl description from tsv file
+14	3	143388	1705344	2017 Mar 30 Thu [10:10]	DevC_ethernet2_3	additionl description from tsv file
+14	4	1536	12096	2017 Mar 30 Thu [10:10]	DevC_ethernet2_4	additionl description from tsv file
+14	5	1984	9600	2017 Mar 30 Thu [10:10]	DevC_ethernet2_5	additionl description from tsv file
+14	6	256	7488	2017 Mar 30 Thu [10:10]	DevC_ethernet2_6	additionl description from tsv file
+14	7	60179334	433326447	2017 Mar 30 Thu [10:10]	DevC_ethernet2_7	additionl description from tsv file
+14	8	87104	94720	2017 Mar 30 Thu [10:10]	DevC_ethernet2_8	additionl description from tsv file
+14	9	36923008	63846592	2017 Mar 30 Thu [10:10]	DevC_ethernet2_9	additionl description from tsv file
+14	10	22118592	2035968	2017 Mar 30 Thu [10:10]	DevC_ethernet2_10	additionl description from tsv file
+14	11	464256	2191488	2017 Mar 30 Thu [10:10]	DevC_ethernet2_11	additionl description from tsv file
+14	12	128	7808	2017 Mar 30 Thu [10:10]	DevC_ethernet2_12	additionl description from tsv file
+14	13	288722	2702272	2017 Mar 30 Thu [10:10]	DevC_ethernet2_13	additionl description from tsv file
+14	14	2944	16768	2017 Mar 30 Thu [10:10]	DevC_ethernet2_14	additionl description from tsv file
+14	15	2816	9472	2017 Mar 30 Thu [10:10]	DevC_ethernet2_15	additionl description from tsv file
+14	16	40192	41024	2017 Mar 30 Thu [10:10]	DevC_ethernet2_16	additionl description from tsv file
+14	17	159688212	166278728	2017 Mar 30 Thu [10:10]	DevC_ethernet2_17	additionl description from tsv file
+14	18	646848	396608	2017 Mar 30 Thu [10:10]	DevC_ethernet2_18	additionl description from tsv file
+14	19	475328	115712	2017 Mar 30 Thu [10:10]	DevC_ethernet2_19	additionl description from tsv file
+14	20	6102144	47029760	2017 Mar 30 Thu [10:10]	DevC_ethernet2_20	additionl description from tsv file
+14	21	15744	2264	2017 Mar 30 Thu [10:10]	DevC_ethernet2_21	additionl description from tsv file
+14	22	6144	8896	2017 Mar 30 Thu [10:10]	DevC_ethernet2_22	additionl description from tsv file
+14	23	4992	9216	2017 Mar 30 Thu [10:10]	DevC_ethernet2_23	additionl description from tsv file
+14	24	8169792	3194304	2017 Mar 30 Thu [10:10]	DevC_ethernet2_24	additionl description from tsv file
+14	25	191296	670144	2017 Mar 30 Thu [10:10]	DevC_ethernet2_25	additionl description from tsv file
+14	26	58309120	361429312	2017 Mar 30 Thu [10:10]	DevC_ethernet2_26	additionl description from tsv file
+14	27	3827072	1606400	2017 Mar 30 Thu [10:10]	DevC_ethernet2_27	additionl description from tsv file
+14	28	1343936	2311680	2017 Mar 30 Thu [10:10]	DevC_ethernet2_28	additionl description from tsv file
+14	29	28672	20608	2017 Mar 30 Thu [10:10]	DevC_ethernet2_29	additionl description from tsv file
+14	30	255639161	705399118	2017 Mar 30 Thu [10:10]	DevC_ethernet2_30	
+14	31	205834072	784907419	2017 Mar 30 Thu [10:10]	DevC_ethernet2_31	
+14	32	242431562	162902363	2017 Mar 30 Thu [10:10]	DevC_ethernet2_32	
+14	33	199250929	410515634	2017 Mar 30 Thu [10:10]	DevC_ethernet2_33	
+14	34	57098994	579890930	2017 Mar 30 Thu [10:10]	DevC_ethernet2_34	
+14	35	620102058	51812418	2017 Mar 30 Thu [10:10]	DevC_ethernet2_35	
+14	36	68051980	76991927	2017 Mar 30 Thu [10:10]	DevC_ethernet2_36	
+14	37	4658845	7457369	2017 Mar 30 Thu [10:10]	DevC_ethernet2_37	
+14	38	59629171	45716391	2017 Mar 30 Thu [10:10]	DevC_ethernet2_38	
+14	39	834037937	122561300	2017 Mar 30 Thu [10:10]	DevC_ethernet2_39	
+14	40	555578029	384904162	2017 Mar 30 Thu [10:10]	DevC_ethernet2_40	
+14	41	11392	27072	2017 Mar 30 Thu [10:10]	DevC_ethernet2_41	additionl description from tsv file
+14	42	6400	23872	2017 Mar 30 Thu [10:10]	DevC_ethernet2_42	additionl description from tsv file
+14	43	8832	18752	2017 Mar 30 Thu [10:10]	DevC_ethernet2_43	additionl description from tsv file
+14	44	5952	23424	2017 Mar 30 Thu [10:10]	DevC_ethernet2_44	additionl description from tsv file
+14	45	-1	-1		DevC_ethernet2_45	additionl description from tsv file
+14	46	-1	-1		DevC_ethernet2_46	
+14	47	-1	-1		DevC_ethernet2_47	
+14	48	-1	-1		DevC_ethernet2_48	
+15	1	62397291	69200607	2017 Mar 30 Thu [10:10]	DevC_ethernet3_1	additionl description from tsv file
+15	2	692951154	11885887	2017 Mar 30 Thu [10:10]	DevC_ethernet3_2	
+15	3	258001815	21331523	2017 Mar 30 Thu [10:10]	DevC_ethernet3_3	
+15	4	55555778	1817023	2017 Mar 30 Thu [10:10]	DevC_ethernet3_4	
+15	5	32408885	68341392	2017 Mar 30 Thu [10:10]	DevC_ethernet3_5	
+15	6	13226162	8851057	2017 Mar 30 Thu [10:10]	DevC_ethernet3_6	
+15	7	217819392	3136670	2017 Mar 30 Thu [10:10]	DevC_ethernet3_7	
+15	8	630091242	72872137	2017 Mar 30 Thu [10:10]	DevC_ethernet3_8	
+15	9	225678611	45401794	2017 Mar 30 Thu [10:10]	DevC_ethernet3_9	
+15	10	353899843	65593617	2017 Mar 30 Thu [10:10]	DevC_ethernet3_10	
+15	11	26000906	5149110	2017 Mar 30 Thu [10:10]	DevC_ethernet3_11	
+15	12	662802596	69772868	2017 Mar 30 Thu [10:10]	DevC_ethernet3_12	
+15	13	202051899	31421012	2017 Mar 30 Thu [10:10]	DevC_ethernet3_13	
+15	14	718916202	61967593	2017 Mar 30 Thu [10:10]	DevC_ethernet3_14	
+15	15	634161894	28322095	2017 Mar 30 Thu [10:10]	DevC_ethernet3_15	
+15	16	17842277	42638063	2017 Mar 30 Thu [10:10]	DevC_ethernet3_16	
+15	17	75161371	83879512	2017 Mar 30 Thu [10:10]	DevC_ethernet3_17	
+15	18	792410	7417057	2017 Mar 30 Thu [10:10]	DevC_ethernet3_18	
+15	19	44121943	80270956	2017 Mar 30 Thu [10:10]	DevC_ethernet3_19	
+15	20	54973182	19640724	2017 Mar 30 Thu [10:10]	DevC_ethernet3_20	
+15	21	25323366	12911244	2017 Mar 30 Thu [10:10]	DevC_ethernet3_21	
+15	22	23093782	71537949	2017 Mar 30 Thu [10:10]	DevC_ethernet3_22	
+15	23	3984623	14082523	2017 Mar 30 Thu [10:10]	DevC_ethernet3_23	
+15	24	5620694	4443037	2017 Mar 30 Thu [10:10]	DevC_ethernet3_24	
+15	25	704402263	80914676	2017 Mar 30 Thu [10:10]	DevC_ethernet3_25	
+15	26	375459	40490905	2017 Mar 30 Thu [10:10]	DevC_ethernet3_26	
+15	27	82237406	24848953	2017 Mar 30 Thu [10:10]	DevC_ethernet3_27	
+15	28	78855106	15847592	2017 Mar 30 Thu [10:10]	DevC_ethernet3_28	
+15	29	77783408	82943409	2017 Mar 30 Thu [10:10]	DevC_ethernet3_29	
+15	30	531424536	29681678	2017 Mar 30 Thu [10:10]	DevC_ethernet3_30	
+15	31	27404992	82815553	2017 Mar 30 Thu [10:10]	DevC_ethernet3_31	
+15	32	1628046	2342214	2017 Mar 30 Thu [10:10]	DevC_ethernet3_32	
+15	33	20156638	19225612	2017 Mar 30 Thu [10:10]	DevC_ethernet3_33	
+15	34	7200835	62036569	2017 Mar 30 Thu [10:10]	DevC_ethernet3_34	
+15	35	234243437	35785406	2017 Mar 30 Thu [10:10]	DevC_ethernet3_35	
+15	36	196544	193088	2017 Mar 30 Thu [10:10]	DevC_ethernet3_36	additionl description from tsv file
+16	1	9856	771634112	2017 Mar 30 Thu [10:10]	DevC_ethernet8_1	additionl description from tsv file
+16	2	494950062	292319845	2017 Mar 30 Thu [10:10]	DevC_ethernet8_2	additionl description from tsv file
+16	3	1536	16064	2017 Mar 30 Thu [10:10]	DevC_ethernet8_3	additionl description from tsv file
+16	4	960	3328	2017 Mar 30 Thu [10:10]	DevC_ethernet8_4	additionl description from tsv file
+16	5	62894512	14935660	2017 Mar 30 Thu [10:10]	DevC_ethernet8_5	
+16	6	60592229	30201371	2017 Mar 30 Thu [10:10]	DevC_ethernet8_6	
+16	7	5667055	3288633	2017 Mar 30 Thu [10:10]	DevC_ethernet8_7	
+16	8	42849061	56986125	2017 Mar 30 Thu [10:10]	DevC_ethernet8_8	
+16	9	77302213	57391080	2017 Mar 30 Thu [10:10]	DevC_ethernet8_9	
+16	10	68157122	42513829	2017 Mar 30 Thu [10:10]	DevC_ethernet8_10	
+16	11	30281809	48978677	2017 Mar 30 Thu [10:10]	DevC_ethernet8_11	
+16	12	15490367	59285568	2017 Mar 30 Thu [10:10]	DevC_ethernet8_12	
+16	13	533363	64332771	2017 Mar 30 Thu [10:10]	DevC_ethernet8_13	
+16	14	70491122	60953147	2017 Mar 30 Thu [10:10]	DevC_ethernet8_14	
+16	15	80681493	48236963	2017 Mar 30 Thu [10:10]	DevC_ethernet8_15	
+16	16	282651643	45241552	2017 Mar 30 Thu [10:10]	DevC_ethernet8_16	
+16	17	1979331	11272291	2017 Mar 30 Thu [10:10]	DevC_ethernet8_17	
+16	18	25945437	26992521	2017 Mar 30 Thu [10:10]	DevC_ethernet8_18	
+16	19	67407194	25380030	2017 Mar 30 Thu [10:10]	DevC_ethernet8_19	
+16	20	25310151	31465819	2017 Mar 30 Thu [10:10]	DevC_ethernet8_20	
+16	21	78579329	27379510	2017 Mar 30 Thu [10:10]	DevC_ethernet8_21	
+16	22	40826019	69660842	2017 Mar 30 Thu [10:10]	DevC_ethernet8_22	
+16	23	73943516	10879539	2017 Mar 30 Thu [10:10]	DevC_ethernet8_23	
+16	24	7988867	74357917	2017 Mar 30 Thu [10:10]	DevC_ethernet8_24	
+17	1	896	28864	2017 Mar 30 Thu [10:10]	DevC_ethernet9_1	additionl description from tsv file
+17	2	70080	8832	2017 Mar 30 Thu [10:10]	DevC_ethernet9_2	additionl description from tsv file
+17	3	641728	22256	2017 Mar 30 Thu [10:10]	DevC_ethernet9_3	additionl description from tsv file
+17	4	0	0	2017 Mar 30 Thu [10:10]	DevC_ethernet9_4	additionl description from tsv file
+17	5	5121536	4454720	2017 Mar 30 Thu [10:10]	DevC_ethernet9_5	additionl description from tsv file
+17	6	3063680	5356096	2017 Mar 30 Thu [10:10]	DevC_ethernet9_6	additionl description from tsv file
+17	7	209054272	4998163	2017 Mar 30 Thu [10:10]	DevC_ethernet9_7	additionl description from tsv file
+17	8	1881472	2592960	2017 Mar 30 Thu [10:10]	DevC_ethernet9_8	additionl description from tsv file
+17	9	43678856	362818313	2017 Mar 30 Thu [10:10]	DevC_ethernet9_9	additionl description from tsv file
+17	10	26048	27136	2017 Mar 30 Thu [10:10]	DevC_ethernet9_10	additionl description from tsv file
+17	11	9600	17408	2017 Mar 30 Thu [10:10]	DevC_ethernet9_11	additionl description from tsv file
+17	12	6400	12352	2017 Mar 30 Thu [10:10]	DevC_ethernet9_12	additionl description from tsv file
+17	13	624	1408768	2017 Mar 30 Thu [10:10]	DevC_ethernet9_13	additionl description from tsv file
+17	14	15552	22528	2017 Mar 30 Thu [10:10]	DevC_ethernet9_14	additionl description from tsv file
+17	15	768	8832	2017 Mar 30 Thu [10:10]	DevC_ethernet9_15	additionl description from tsv file
+17	16	6208	11648	2017 Mar 30 Thu [10:10]	DevC_ethernet9_16	additionl description from tsv file
+17	17	5440	3840	2017 Mar 30 Thu [10:10]	DevC_ethernet9_17	additionl description from tsv file
+17	18	122880	131008	2017 Mar 30 Thu [10:10]	DevC_ethernet9_18	additionl description from tsv file
+17	19	2160448	2168448	2017 Mar 30 Thu [10:10]	DevC_ethernet9_19	additionl description from tsv file
+17	20	82648384	76642816	2017 Mar 30 Thu [10:10]	DevC_ethernet9_20	additionl description from tsv file
+17	21	30912	36416	2017 Mar 30 Thu [10:10]	DevC_ethernet9_21	additionl description from tsv file
+17	22	67662080	67265216	2017 Mar 30 Thu [10:10]	DevC_ethernet9_22	additionl description from tsv file
+17	23	4299200	6849856	2017 Mar 30 Thu [10:10]	DevC_ethernet9_23	additionl description from tsv file
+17	24	24391488	760242048	2017 Mar 30 Thu [10:10]	DevC_ethernet9_24	additionl description from tsv file
+17	25	2378880	59136	2017 Mar 30 Thu [10:10]	DevC_ethernet9_25	additionl description from tsv file
+17	26	8128	25024	2017 Mar 30 Thu [10:10]	DevC_ethernet9_26	additionl description from tsv file
+17	27	4992	24256	2017 Mar 30 Thu [10:10]	DevC_ethernet9_27	additionl description from tsv file
+17	28	42992000	41133248	2017 Mar 30 Thu [10:10]	DevC_ethernet9_28	additionl description from tsv file
+17	29	226073947	370959067	2017 Mar 30 Thu [10:10]	DevC_ethernet9_29	additionl description from tsv file
+17	30	608015864	564318016	2017 Mar 30 Thu [10:10]	DevC_ethernet9_30	additionl description from tsv file
+17	31	14992192	14728000	2017 Mar 30 Thu [10:10]	DevC_ethernet9_31	additionl description from tsv file
+17	32	19489984	24748480	2017 Mar 30 Thu [10:10]	DevC_ethernet9_32	additionl description from tsv file
+17	33	591424	938816	2017 Mar 30 Thu [10:10]	DevC_ethernet9_33	additionl description from tsv file
+17	34	637527923	174428047	2017 Mar 30 Thu [10:10]	DevC_ethernet9_34	
+17	35	15584229	217177431	2017 Mar 30 Thu [10:10]	DevC_ethernet9_35	
+17	36	166782121	288838860	2017 Mar 30 Thu [10:10]	DevC_ethernet9_36	
+17	37	0	1152	2017 Mar 30 Thu [10:10]	DevC_ethernet9_37	additionl description from tsv file
+17	38	0	1152	2017 Mar 30 Thu [10:10]	DevC_ethernet9_38	additionl description from tsv file
+17	39	772416	226496	2017 Mar 30 Thu [10:10]	DevC_ethernet9_39	additionl description from tsv file
+17	40	92800	672896	2017 Mar 30 Thu [10:10]	DevC_ethernet9_40	additionl description from tsv file
+17	41	680943784	682515424	2017 Mar 30 Thu [10:10]	DevC_ethernet9_41	additionl description from tsv file
+17	42	0	1152	2017 Mar 30 Thu [10:10]	DevC_ethernet9_42	additionl description from tsv file
+17	43	6080	21568	2017 Mar 30 Thu [10:10]	DevC_ethernet9_43	additionl description from tsv file
+17	44	5952	13888	2017 Mar 30 Thu [10:10]	DevC_ethernet9_44	additionl description from tsv file
+17	45	487616	41280	2017 Mar 30 Thu [10:10]	DevC_ethernet9_45	additionl description from tsv file
+17	46	5760	8704	2017 Mar 30 Thu [10:10]	DevC_ethernet9_46	additionl description from tsv file
+17	47	15040	18112	2017 Mar 30 Thu [10:10]	DevC_ethernet9_47	additionl description from tsv file
+17	48	8640	4672	2017 Mar 30 Thu [10:10]	DevC_ethernet9_48	additionl description from tsv file
+18	1	248776488	38580608	2017 Mar 30 Thu [10:10]	DevC_ethernet10_1	additionl description from tsv file
+18	2	343794112	196231552	2017 Mar 30 Thu [10:10]	DevC_ethernet10_2	additionl description from tsv file
+18	3	247296	253184	2017 Mar 30 Thu [10:10]	DevC_ethernet10_3	additionl description from tsv file
+18	4	48960	51264	2017 Mar 30 Thu [10:10]	DevC_ethernet10_4	additionl description from tsv file
+18	5	480912	1994240	2017 Mar 30 Thu [10:10]	DevC_ethernet10_5	additionl description from tsv file
+18	6	58422208	20998784	2017 Mar 30 Thu [10:10]	DevC_ethernet10_6	additionl description from tsv file
+18	7	95420928	839642	2017 Mar 30 Thu [10:10]	DevC_ethernet10_7	additionl description from tsv file
+18	8	647208792	26133351	2017 Mar 30 Thu [10:10]	DevC_ethernet10_8	
+18	9	115859072	11681752	2017 Mar 30 Thu [10:10]	DevC_ethernet10_9	additionl description from tsv file
+18	10	12081131	20925552	2017 Mar 30 Thu [10:10]	DevC_ethernet10_10	
+18	11	30143872	24805840	2017 Mar 30 Thu [10:10]	DevC_ethernet10_11	additionl description from tsv file
+18	12	12459488	55277056	2017 Mar 30 Thu [10:10]	DevC_ethernet10_12	additionl description from tsv file
+18	13	1752752	3849472	2017 Mar 30 Thu [10:10]	DevC_ethernet10_13	additionl description from tsv file
+18	14	2874240	1062244	2017 Mar 30 Thu [10:10]	DevC_ethernet10_14	additionl description from tsv file
+18	15	51474254	3028205	2017 Mar 30 Thu [10:10]	DevC_ethernet10_15	additionl description from tsv file
+18	16	77156562	23276119	2017 Mar 30 Thu [10:10]	DevC_ethernet10_16	
+18	17	3753791	49012848	2017 Mar 30 Thu [10:10]	DevC_ethernet10_17	
+18	18	3366388	1498532	2017 Mar 30 Thu [10:10]	DevC_ethernet10_18	additionl description from tsv file
+18	19	419768	69624843	2017 Mar 30 Thu [10:10]	DevC_ethernet10_19	
+18	20	6658376	14854330	2017 Mar 30 Thu [10:10]	DevC_ethernet10_20	
+18	21	78607508	77884101	2017 Mar 30 Thu [10:10]	DevC_ethernet10_21	
+18	22	82137936	1603370	2017 Mar 30 Thu [10:10]	DevC_ethernet10_22	
+18	23	54518720	61652400	2017 Mar 30 Thu [10:10]	DevC_ethernet10_23	additionl description from tsv file
+18	24	2961064	64315539	2017 Mar 30 Thu [10:10]	DevC_ethernet10_24	
+18	25	75478778	23328189	2017 Mar 30 Thu [10:10]	DevC_ethernet10_25	
+18	26	23755867	67610575	2017 Mar 30 Thu [10:10]	DevC_ethernet10_26	
+18	27	59223175	57684664	2017 Mar 30 Thu [10:10]	DevC_ethernet10_27	
+18	28	4524044	43402778	2017 Mar 30 Thu [10:10]	DevC_ethernet10_28	
+18	29	1131690	28685101	2017 Mar 30 Thu [10:10]	DevC_ethernet10_29	
+18	30	8531838	17520207	2017 Mar 30 Thu [10:10]	DevC_ethernet10_30	
+18	31	56322528	26502277	2017 Mar 30 Thu [10:10]	DevC_ethernet10_31	
+18	32	33027143	5569386	2017 Mar 30 Thu [10:10]	DevC_ethernet10_32	
+18	33	20519400	36949863	2017 Mar 30 Thu [10:10]	DevC_ethernet10_33	
+18	34	73481778	13514820	2017 Mar 30 Thu [10:10]	DevC_ethernet10_34	
+18	35	53684951	50197380	2017 Mar 30 Thu [10:10]	DevC_ethernet10_35	
+18	36	27494323	69827032	2017 Mar 30 Thu [10:10]	DevC_ethernet10_36	
+18	37	6900454	80008362	2017 Mar 30 Thu [10:10]	DevC_ethernet10_37	additionl description from tsv file
+18	38	72072114	19681908	2017 Mar 30 Thu [10:10]	DevC_ethernet10_38	
+18	39	512	512	2017 Mar 09 Thu [14:35]	DevC_ethernet10_39	additionl description from tsv file
+18	40	512	512	2017 Mar 09 Thu [14:35]	DevC_ethernet10_40	additionl description from tsv file
+18	41	380608715	8363176	2017 Mar 30 Thu [10:10]	DevC_ethernet10_41	
+18	42	611498694	2118437	2017 Mar 30 Thu [10:10]	DevC_ethernet10_42	
+18	43	55955646	55416577	2017 Mar 30 Thu [10:10]	DevC_ethernet10_43	
+18	44	202227800	25428137	2017 Mar 30 Thu [10:10]	DevC_ethernet10_44	
+18	45	446192489	82698796	2017 Mar 30 Thu [10:10]	DevC_ethernet10_45	
+18	46	69056	359360	2017 Mar 30 Thu [10:10]	DevC_ethernet10_46	additionl description from tsv file
+18	47	6186507	658909	2017 Mar 30 Thu [10:10]	DevC_ethernet10_47	additionl description from tsv file
+18	48	8230922	4676821	2017 Mar 30 Thu [10:10]	DevC_ethernet10_48	additionl description from tsv file
+19	1	7936	356096	2017 Mar 30 Thu [10:10]	DevD_ethernet1_1	
+19	2	265152	320704	2017 Mar 30 Thu [10:10]	DevD_ethernet1_2	additionl description from tsv file
+19	3	58816	45568	2017 Mar 30 Thu [10:10]	DevD_ethernet1_3	additionl description from tsv file
+19	4	60295626	25394048	2017 Mar 30 Thu [10:10]	DevD_ethernet1_4	additionl description from tsv file
+19	5	82809149	40772330	2017 Mar 30 Thu [10:10]	DevD_ethernet1_5	additionl description from tsv file
+19	6	77207163	71889298	2017 Mar 30 Thu [10:10]	DevD_ethernet1_6	additionl description from tsv file
+19	7	80724415	27314724	2017 Mar 30 Thu [10:10]	DevD_ethernet1_7	additionl description from tsv file
+19	8	4841825	52437524	2017 Mar 30 Thu [10:10]	DevD_ethernet1_8	
+19	9	75814577	60161018	2017 Mar 30 Thu [10:10]	DevD_ethernet1_9	
+19	10	4488555	62729315	2017 Mar 30 Thu [10:10]	DevD_ethernet1_10	
+19	11	960	15872	2017 Mar 30 Thu [10:10]	DevD_ethernet1_11	additionl description from tsv file
+19	12	0	7552	2017 Mar 30 Thu [10:10]	DevD_ethernet1_12	additionl description from tsv file
+19	13	71501249	41112905	2017 Mar 30 Thu [10:10]	DevD_ethernet1_13	
+19	14	344333	50427119	2017 Mar 30 Thu [10:10]	DevD_ethernet1_14	additionl description from tsv file
+19	15	204888988	827513691	2017 Mar 30 Thu [10:10]	DevD_ethernet1_15	
+19	16	83851708	3815678	2017 Mar 30 Thu [10:10]	DevD_ethernet1_16	
+19	17	1941056	651968	2017 Mar 30 Thu [10:10]	DevD_ethernet1_17	additionl description from tsv file
+19	18	684751238	37013419	2017 Mar 30 Thu [10:10]	DevD_ethernet1_18	
+19	19	0	128320	2017 Mar 30 Thu [10:10]	DevD_ethernet1_19	additionl description from tsv file
+19	20	0	185728	2017 Mar 30 Thu [10:10]	DevD_ethernet1_20	additionl description from tsv file
+19	21	464169865	336985471	2017 Mar 30 Thu [10:10]	DevD_ethernet1_21	
+19	22	319713067	706436567	2017 Mar 30 Thu [10:10]	DevD_ethernet1_22	
+19	23	5873995	98862739	2017 Mar 30 Thu [10:10]	DevD_ethernet1_23	
+19	24	759894128	59333023	2017 Mar 30 Thu [10:10]	DevD_ethernet1_24	
+19	25	960	7552	2017 Mar 30 Thu [10:10]	DevD_ethernet1_25	additionl description from tsv file
+19	26	150208152	824621985	2017 Mar 30 Thu [10:10]	DevD_ethernet1_26	additionl description from tsv file
+19	27	1024	11520	2017 Mar 30 Thu [10:10]	DevD_ethernet1_27	additionl description from tsv file
+19	28	1152	7488	2017 Mar 30 Thu [10:10]	DevD_ethernet1_28	additionl description from tsv file
+19	29	12608	22784	2017 Mar 30 Thu [10:10]	DevD_ethernet1_29	additionl description from tsv file
+19	30	1024	7616	2017 Mar 30 Thu [10:10]	DevD_ethernet1_30	additionl description from tsv file
+19	31	-1	-1		DevD_ethernet1_31	
+19	32	-1	-1		DevD_ethernet1_32	
+19	33	-1	-1		DevD_ethernet1_33	
+19	34	-1	-1		DevD_ethernet1_34	
+19	35	-1	-1		DevD_ethernet1_35	
+19	36	-1	-1		DevD_ethernet1_36	
+19	37	-1	-1		DevD_ethernet1_37	
+19	38	-1	-1		DevD_ethernet1_38	
+19	39	-1	-1		DevD_ethernet1_39	
+19	40	-1	-1		DevD_ethernet1_40	
+19	41	-1	-1		DevD_ethernet1_41	
+19	42	-1	-1		DevD_ethernet1_42	
+19	43	-1	-1		DevD_ethernet1_43	
+19	44	-1	-1		DevD_ethernet1_44	
+19	45	0	0	2017 Mar 30 Thu [10:10]	DevD_ethernet1_45	additionl description from tsv file
+19	46	34410711	419132502	2017 Mar 30 Thu [10:10]	DevD_ethernet1_46	additionl description from tsv file
+19	47	0	18944	2017 Mar 30 Thu [10:10]	DevD_ethernet1_47	additionl description from tsv file
+19	48	20099638	246641661	2017 Mar 30 Thu [10:10]	DevD_ethernet1_48	additionl description from tsv file
+20	1	84340620	445599991	2017 Mar 30 Thu [10:10]	DevD_ethernet2_1	
+20	2	384	7552	2017 Mar 30 Thu [10:10]	DevD_ethernet2_2	additionl description from tsv file
+20	3	38727899	159490706	2017 Mar 30 Thu [10:10]	DevD_ethernet2_3	
+20	4	227264	243456	2017 Mar 30 Thu [10:10]	DevD_ethernet2_4	additionl description from tsv file
+20	5	204096	307648	2017 Mar 30 Thu [10:10]	DevD_ethernet2_5	additionl description from tsv file
+20	6	24640	15104	2017 Mar 30 Thu [10:10]	DevD_ethernet2_6	additionl description from tsv file
+20	7	960	17088	2017 Mar 30 Thu [10:10]	DevD_ethernet2_7	additionl description from tsv file
+20	8	576	17024	2017 Mar 30 Thu [10:10]	DevD_ethernet2_8	additionl description from tsv file
+20	9	271232	7808	2017 Mar 30 Thu [10:10]	DevD_ethernet2_9	additionl description from tsv file
+20	10	15198784	209772984	2017 Mar 30 Thu [10:10]	DevD_ethernet2_10	additionl description from tsv file
+20	11	10027584	24656192	2017 Mar 30 Thu [10:10]	DevD_ethernet2_11	additionl description from tsv file
+20	12	3264	14656	2017 Mar 30 Thu [10:10]	DevD_ethernet2_12	additionl description from tsv file
+20	13	384	14144	2017 Mar 30 Thu [10:10]	DevD_ethernet2_13	additionl description from tsv file
+20	14	395008	619776	2017 Mar 30 Thu [10:10]	DevD_ethernet2_14	additionl description from tsv file
+20	15	2271744	3644864	2017 Mar 30 Thu [10:10]	DevD_ethernet2_15	additionl description from tsv file
+20	16	22732079	60345090	2017 Mar 30 Thu [10:10]	DevD_ethernet2_16	
+20	17	3253422	10199411	2017 Mar 30 Thu [10:10]	DevD_ethernet2_17	
+20	18	25719418	15645177	2017 Mar 30 Thu [10:10]	DevD_ethernet2_18	
+20	19	2244816	36883127	2017 Mar 30 Thu [10:10]	DevD_ethernet2_19	
+20	20	39150362	83038279	2017 Mar 30 Thu [10:10]	DevD_ethernet2_20	
+20	21	82461034	45529965	2017 Mar 30 Thu [10:10]	DevD_ethernet2_21	
+20	22	75932334	23482718	2017 Mar 30 Thu [10:10]	DevD_ethernet2_22	
+20	23	20578432	20030788	2017 Mar 30 Thu [10:10]	DevD_ethernet2_23	
+20	24	40033129	32990767	2017 Mar 30 Thu [10:10]	DevD_ethernet2_24	
+20	25	71129862	83895016	2017 Mar 30 Thu [10:10]	DevD_ethernet2_25	
+20	26	8897740	28957315	2017 Mar 30 Thu [10:10]	DevD_ethernet2_26	
+20	27	82884862	65298928	2017 Mar 30 Thu [10:10]	DevD_ethernet2_27	
+20	28	48392741	17707053	2017 Mar 30 Thu [10:10]	DevD_ethernet2_28	
+20	29	56600490	29084172	2017 Mar 30 Thu [10:10]	DevD_ethernet2_29	
+20	30	52551035	10741968	2017 Mar 30 Thu [10:10]	DevD_ethernet2_30	
+20	31	6591263	67237894	2017 Mar 30 Thu [10:10]	DevD_ethernet2_31	
+20	32	39505968	78590147	2017 Mar 30 Thu [10:10]	DevD_ethernet2_32	
+20	33	67527967	27302675	2017 Mar 30 Thu [10:10]	DevD_ethernet2_33	
+20	34	52296193	42755299	2017 Mar 30 Thu [10:10]	DevD_ethernet2_34	
+20	35	82717996	29070083	2017 Mar 30 Thu [10:10]	DevD_ethernet2_35	
+20	36	920896	771675986	2017 Mar 30 Thu [10:10]	DevD_ethernet2_36	
+20	37	40205333	19054034	2017 Mar 30 Thu [10:10]	DevD_ethernet2_37	
+20	38	81521084	77813171	2017 Mar 30 Thu [10:10]	DevD_ethernet2_38	
+20	39	62071461	12396969	2017 Mar 30 Thu [10:10]	DevD_ethernet2_39	
+20	40	72774752	53147869	2017 Mar 30 Thu [10:10]	DevD_ethernet2_40	
+20	41	12096	27392	2017 Mar 30 Thu [10:10]	DevD_ethernet2_41	additionl description from tsv file
+20	42	320	19200	2017 Mar 30 Thu [10:10]	DevD_ethernet2_42	additionl description from tsv file
+20	43	0	18944	2017 Mar 30 Thu [10:10]	DevD_ethernet2_43	additionl description from tsv file
+20	44	320	19200	2017 Mar 30 Thu [10:10]	DevD_ethernet2_44	additionl description from tsv file
+20	45	-1	-1		DevD_ethernet2_45	
+20	46	-1	-1		DevD_ethernet2_46	
+20	47	-1	-1		DevD_ethernet2_47	
+20	48	-1	-1		DevD_ethernet2_48	additionl description from tsv file
+21	1	-1	-1		DevD_ethernet3_1	
+21	2	-1	-1		DevD_ethernet3_2	
+21	3	-1	-1		DevD_ethernet3_3	
+21	4	-1	-1		DevD_ethernet3_4	
+21	5	-1	-1		DevD_ethernet3_5	
+21	6	-1	-1		DevD_ethernet3_6	
+21	7	-1	-1		DevD_ethernet3_7	
+21	8	-1	-1		DevD_ethernet3_8	
+21	9	-1	-1		DevD_ethernet3_9	
+21	10	470110582	3 2004200	2017 Mar 30 Thu [10:10]	DevD_ethernet3_10	
+21	11	502181425	15781496	2017 Mar 30 Thu [10:10]	DevD_ethernet3_11	
+21	12	114732219	64636239	2017 Mar 30 Thu [10:10]	DevD_ethernet3_12	
+21	13	168447298	58943260	2017 Mar 30 Thu [10:10]	DevD_ethernet3_13	
+21	14	93235368	33680130	2017 Mar 30 Thu [10:10]	DevD_ethernet3_14	
+21	15	336239741	39216107	2017 Mar 30 Thu [10:10]	DevD_ethernet3_15	
+21	16	756608388	24661548	2017 Mar 30 Thu [10:10]	DevD_ethernet3_16	
+21	17	390504554	39057788	2017 Mar 30 Thu [10:10]	DevD_ethernet3_17	
+21	18	330891014	23905403	2017 Mar 30 Thu [10:10]	DevD_ethernet3_18	
+21	19	535077525	3478353	2017 Mar 30 Thu [10:10]	DevD_ethernet3_19	
+21	20	454370391	46973671	2017 Mar 30 Thu [10:10]	DevD_ethernet3_20	
+21	21	196246115	40585712	2017 Mar 30 Thu [10:10]	DevD_ethernet3_21	
+21	22	288087072	13677940	2017 Mar 30 Thu [10:10]	DevD_ethernet3_22	
+21	23	580497217	7092014	2017 Mar 30 Thu [10:10]	DevD_ethernet3_23	
+21	24	706904777	30890863	2017 Mar 30 Thu [10:10]	DevD_ethernet3_24	
+21	25	51325569	7932983	2017 Mar 30 Thu [10:10]	DevD_ethernet3_25	
+21	26	642714517	41931	2017 Mar 30 Thu [10:10]	DevD_ethernet3_26	
+21	27	90844635	41683970	2017 Mar 30 Thu [10:10]	DevD_ethernet3_27	
+21	28	658182078	11050157	2017 Mar 30 Thu [10:10]	DevD_ethernet3_28	
+21	29	466332145	94850267	2017 Mar 30 Thu [10:10]	DevD_ethernet3_29	
+21	30	504267070	6220663	2017 Mar 30 Thu [10:10]	DevD_ethernet3_30	
+21	31	769416900	08560029	2017 Mar 30 Thu [10:10]	DevD_ethernet3_31	
+21	32	778469736	5656195	2017 Mar 30 Thu [10:10]	DevD_ethernet3_32	
+21	33	222029439	24343067	2017 Mar 30 Thu [10:10]	DevD_ethernet3_33	
+21	34	55817725	228658539	2017 Mar 30 Thu [10:10]	DevD_ethernet3_34	
+21	35	788752765	10777546	2017 Mar 30 Thu [10:10]	DevD_ethernet3_35	
+21	36	101120	108736	2017 Mar 30 Thu [10:10]	DevD_ethernet3_36	additionl description from tsv file
+22	1	284143616	12160	2017 Mar 30 Thu [10:10]	DevD_ethernet8_1	additionl description from tsv file
+22	2	820965676	158455909	2017 Mar 30 Thu [10:10]	DevD_ethernet8_2	additionl description from tsv file
+22	3	792960	88220	2017 Mar 30 Thu [10:10]	DevD_ethernet8_3	additionl description from tsv file
+22	4	582264	1172220	2017 Mar 30 Thu [10:10]	DevD_ethernet8_4	additionl description from tsv file
+22	5	960	2432	2017 Mar 30 Thu [10:10]	DevD_ethernet8_5	additionl description from tsv file
+22	6	218460838	45183391	2017 Mar 30 Thu [10:10]	DevD_ethernet8_6	
+22	7	240373191	25505491	2017 Mar 30 Thu [10:10]	DevD_ethernet8_7	
+22	8	183722359	52947026	2017 Mar 30 Thu [10:10]	DevD_ethernet8_8	
+22	9	80122314	62823201	2017 Mar 30 Thu [10:10]	DevD_ethernet8_9	
+22	10	54784372	29021600	2017 Mar 30 Thu [10:10]	DevD_ethernet8_10	
+22	11	522900324	37665212	2017 Mar 30 Thu [10:10]	DevD_ethernet8_11	
+22	12	618546852	4804276	2017 Mar 30 Thu [10:10]	DevD_ethernet8_12	
+22	13	15269945	27872644	2017 Mar 30 Thu [10:10]	DevD_ethernet8_13	
+22	14	1008414	44729367	2017 Mar 30 Thu [10:10]	DevD_ethernet8_14	
+22	15	709198449	7172629	2017 Mar 30 Thu [10:10]	DevD_ethernet8_15	
+22	16	724306543	79879261	2017 Mar 30 Thu [10:10]	DevD_ethernet8_16	
+22	17	403674746	744872	2017 Mar 30 Thu [10:10]	DevD_ethernet8_17	
+22	18	548962197	44216370	2017 Mar 30 Thu [10:10]	DevD_ethernet8_18	
+22	19	226586138	7720228	2017 Mar 30 Thu [10:10]	DevD_ethernet8_19	
+22	20	651897762	77573988	2017 Mar 30 Thu [10:10]	DevD_ethernet8_20	
+22	21	788778136	34205092	2017 Mar 30 Thu [10:10]	DevD_ethernet8_21	
+22	22	827389377	362256	2017 Mar 30 Thu [10:10]	DevD_ethernet8_22	
+22	23	438703939	61958196	2017 Mar 30 Thu [10:10]	DevD_ethernet8_23	
+22	24	98367421	29230249	2017 Mar 30 Thu [10:10]	DevD_ethernet8_24	
+23	1	512463776	6373227	2017 Mar 30 Thu [10:10]	DevD_ethernet9_1	
+23	2	170640557	221075567	2017 Mar 30 Thu [10:10]	DevD_ethernet9_2	
+23	3	0	36544	2017 Mar 30 Thu [10:10]	DevD_ethernet9_3	additionl description from tsv file
+23	4	46592	23680	2017 Mar 30 Thu [10:10]	DevD_ethernet9_4	additionl description from tsv file
+23	5	320	7936	2017 Mar 30 Thu [10:10]	DevD_ethernet9_5	additionl description from tsv file
+23	6	320	9792	2017 Mar 30 Thu [10:10]	DevD_ethernet9_6	additionl description from tsv file
+23	7	320	7680	2017 Mar 30 Thu [10:10]	DevD_ethernet9_7	additionl description from tsv file
+23	8	0	7168	2017 Mar 30 Thu [10:10]	DevD_ethernet9_8	additionl description from tsv file
+23	9	152511205	103853042	2017 Mar 30 Thu [10:10]	DevD_ethernet9_9	additionl description from tsv file
+23	10	826432	231872	2017 Mar 30 Thu [10:10]	DevD_ethernet9_10	additionl description from tsv file
+23	11	1728	8896	2017 Mar 30 Thu [10:10]	DevD_ethernet9_11	additionl description from tsv file
+23	12	6080	2816	2017 Mar 30 Thu [10:10]	DevD_ethernet9_12	additionl description from tsv file
+23	13	768	14272	2017 Mar 30 Thu [10:10]	DevD_ethernet9_13	additionl description from tsv file
+23	14	768	7616	2017 Mar 30 Thu [10:10]	DevD_ethernet9_14	additionl description from tsv file
+23	15	704	7488	2017 Mar 30 Thu [10:10]	DevD_ethernet9_15	additionl description from tsv file
+23	16	704	722	2017 Mar 30 Thu [10:10]	DevD_ethernet9_16	additionl description from tsv file
+23	17	6144	2816	2017 Mar 30 Thu [10:10]	DevD_ethernet9_17	additionl description from tsv file
+23	18	512	7616	2017 Mar 30 Thu [10:10]	DevD_ethernet9_18	additionl description from tsv file
+23	19	512	7488	2017 Mar 30 Thu [10:10]	DevD_ethernet9_19	additionl description from tsv file
+23	20	128	13696	2017 Mar 30 Thu [10:10]	DevD_ethernet9_20	additionl description from tsv file
+23	21	128	8256	2017 Mar 30 Thu [10:10]	DevD_ethernet9_21	additionl description from tsv file
+23	22	2909952	88563	2017 Mar 30 Thu [10:10]	DevD_ethernet9_22	additionl description from tsv file
+23	23	128	7296	2017 Mar 30 Thu [10:10]	DevD_ethernet9_23	additionl description from tsv file
+23	24	512	16192	2017 Mar 30 Thu [10:10]	DevD_ethernet9_24	additionl description from tsv file
+23	25	832	8960	2017 Mar 30 Thu [10:10]	DevD_ethernet9_25	additionl description from tsv file
+23	26	512	7936	2017 Mar 30 Thu [10:10]	DevD_ethernet9_26	additionl description from tsv file
+23	27	832	8960	2017 Mar 30 Thu [10:10]	DevD_ethernet9_27	additionl description from tsv file
+23	28	359296	13760	2017 Mar 30 Thu [10:10]	DevD_ethernet9_28	additionl description from tsv file
+23	29	756062609	368014134	2017 Mar 30 Thu [10:10]	DevD_ethernet9_29	additionl description from tsv file
+23	30	9408	24192	2017 Mar 30 Thu [10:10]	DevD_ethernet9_30	additionl description from tsv file
+23	31	42752	9088	2017 Mar 30 Thu [10:10]	DevD_ethernet9_31	additionl description from tsv file
+23	32	399552	170048	2017 Mar 30 Thu [10:10]	DevD_ethernet9_32	additionl description from tsv file
+23	33	5568	23872	2017 Mar 30 Thu [10:10]	DevD_ethernet9_33	additionl description from tsv file
+23	34	5056	23040	2017 Mar 30 Thu [10:10]	DevD_ethernet9_34	additionl description from tsv file
+23	35	37541568	172928	2017 Mar 30 Thu [10:10]	DevD_ethernet9_35	additionl description from tsv file
+23	36	192576	509952	2017 Mar 30 Thu [10:10]	DevD_ethernet9_36	additionl description from tsv file
+23	37	0	0	2017 Mar 30 Thu [10:10]	DevD_ethernet9_37	additionl description from tsv file
+23	38	0	0	2017 Mar 30 Thu [10:10]	DevD_ethernet9_38	additionl description from tsv file
+23	39	0	23616	2017 Mar 30 Thu [10:10]	DevD_ethernet9_39	additionl description from tsv file
+23	40	0	7936	2017 Mar 30 Thu [10:10]	DevD_ethernet9_40	additionl description from tsv file
+23	41	0	15680	2017 Mar 30 Thu [10:10]	DevD_ethernet9_41	additionl description from tsv file
+23	42	0	0	2017 Mar 30 Thu [10:10]	DevD_ethernet9_42	additionl description from tsv file
+23	43	448	1336	2017 Mar 30 Thu [10:10]	DevD_ethernet9_43	additionl description from tsv file
+23	44	448	7680	2017 Mar 30 Thu [10:10]	DevD_ethernet9_44	additionl description from tsv file
+23	45	448	722	2017 Mar 30 Thu [10:10]	DevD_ethernet9_45	additionl description from tsv file
+23	46	2112	8704	2017 Mar 30 Thu [10:10]	DevD_ethernet9_46	additionl description from tsv file
+23	47	7296	11584	2017 Mar 30 Thu [10:10]	DevD_ethernet9_47	additionl description from tsv file
+23	48	8192	2816	2017 Mar 30 Thu [10:10]	DevD_ethernet9_48	additionl description from tsv file
+24	1	41295808	307445312	2017 Mar 30 Thu [10:10]	DevD_ethernet10_1	additionl description from tsv file
+24	2	7319312	44755840	2017 Mar 30 Thu [10:10]	DevD_ethernet10_2	additionl description from tsv file
+24	3	253952	248000	2017 Mar 30 Thu [10:10]	DevD_ethernet10_3	additionl description from tsv file
+24	4	51456	49088	2017 Mar 30 Thu [10:10]	DevD_ethernet10_4	additionl description from tsv file
+24	5	1993664	45043136	2017 Mar 30 Thu [10:10]	DevD_ethernet10_5	additionl description from tsv file
+24	6	210471384	58606720	2017 Mar 30 Thu [10:10]	DevD_ethernet10_6	additionl description from tsv file
+24	7	192	550784	2017 Mar 30 Thu [10:10]	DevD_ethernet10_7	additionl description from tsv file
+24	8	221013527	658927002	2017 Mar 30 Thu [10:10]	DevD_ethernet10_8	additionl description from tsv file
+24	9	64	818112	2017 Mar 30 Thu [10:10]	DevD_ethernet10_9	additionl description from tsv file
+24	10	59635707	458686265	2017 Mar 30 Thu [10:10]	DevD_ethernet10_10	additionl description from tsv file
+24	11	0	634496	2017 Mar 30 Thu [10:10]	DevD_ethernet10_11	additionl description from tsv file
+24	12	0	16640	2017 Mar 30 Thu [10:10]	DevD_ethernet10_12	additionl description from tsv file
+24	13	887936	1232192	2017 Mar 30 Thu [10:10]	DevD_ethernet10_13	additionl description from tsv file
+24	14	67584	1982272	2017 Mar 30 Thu [10:10]	DevD_ethernet10_14	additionl description from tsv file
+24	15	37220160	14144	2017 Mar 30 Thu [10:10]	DevD_ethernet10_15	additionl description from tsv file
+24	16	160360834	436620106	2017 Mar 30 Thu [10:10]	DevD_ethernet10_16	additionl description from tsv file
+24	17	1024	1024	2017 Mar 30 Thu [10:10]	DevD_ethernet10_17	additionl description from tsv file
+24	18	2360672	71655808	2017 Mar 30 Thu [10:10]	DevD_ethernet10_18	additionl description from tsv file
+24	19	78657536	74818075	2017 Mar 30 Thu [10:10]	DevD_ethernet10_19	
+24	20	31336038	11613589	2017 Mar 30 Thu [10:10]	DevD_ethernet10_20	
+24	21	8060703	42046519	2017 Mar 30 Thu [10:10]	DevD_ethernet10_21	
+24	22	6703368	82800758	2017 Mar 30 Thu [10:10]	DevD_ethernet10_22	
+24	23	51332016	63572969	2017 Mar 30 Thu [10:10]	DevD_ethernet10_23	
+24	24	31578693	438452872	2017 Mar 30 Thu [10:10]	DevD_ethernet10_24	
+24	25	53622777	63713890	2017 Mar 30 Thu [10:10]	DevD_ethernet10_25	
+24	26	77858954	8153284	2017 Mar 30 Thu [10:10]	DevD_ethernet10_26	
+24	27	7567691	32747781	2017 Mar 30 Thu [10:10]	DevD_ethernet10_27	
+24	28	74022180	558855	2017 Mar 30 Thu [10:10]	DevD_ethernet10_28	
+24	29	67470775	443654461	2017 Mar 30 Thu [10:10]	DevD_ethernet10_29	
+24	30	3543507	24177932	2017 Mar 30 Thu [10:10]	DevD_ethernet10_30	
+24	31	438240	6358366	2017 Mar 30 Thu [10:10]	DevD_ethernet10_31	
+24	32	6263567	47145120	2017 Mar 30 Thu [10:10]	DevD_ethernet10_32	
+24	33	7273635	654719	2017 Mar 30 Thu [10:10]	DevD_ethernet10_33	
+24	34	4269083	54098384	2017 Mar 30 Thu [10:10]	DevD_ethernet10_34	
+24	35	26743745	72286601	2017 Mar 30 Thu [10:10]	DevD_ethernet10_35	
+24	36	6031131	24016554	2017 Mar 30 Thu [10:10]	DevD_ethernet10_36	
+24	37	503943363	49753590	2017 Mar 30 Thu [10:10]	DevD_ethernet10_37	
+24	38	3355110	70567343	2017 Mar 30 Thu [10:10]	DevD_ethernet10_38	
+24	39	26752815	39819415	2017 Mar 30 Thu [10:10]	DevD_ethernet10_39	
+24	40	-1	-1		DevD_ethernet10_40	
+24	41	-1	-1		DevD_ethernet10_41	
+24	42	-1	-1		DevD_ethernet10_42	
+24	43	-1	-1		DevD_ethernet10_43	
+24	44	-1	-1		DevD_ethernet10_44	
+24	45	-1	-1		DevD_ethernet10_45	
+24	46	512	58624	2017 Mar 30 Thu [10:10]	DevD_ethernet10_46	additionl description from tsv file
+24	47	131173390	402400702	2017 Mar 30 Thu [10:10]	DevD_ethernet10_47	
+24	48	772125028	289287496	2017 Mar 30 Thu [10:10]	DevD_ethernet10_48	additionl description from tsv file
+25	1	538655629	3937488	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_1	additionl description from tsv file
+25	2	7328320	7284608	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_2	additionl description from tsv file
+25	3	638445685	691317911	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_3	additionl description from tsv file
+25	4	20209856	17826112	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_4	additionl description from tsv file
+25	5	1493120	939200	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_5	additionl description from tsv file
+25	6	3414336	3464704	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_6	additionl description from tsv file
+25	7	512	29952	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_7	additionl description from tsv file
+25	8	49363	768	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_8	additionl description from tsv file
+25	9	118592	22144	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_9	additionl description from tsv file
+25	10	2254656	6116608	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_10	additionl description from tsv file
+25	11	31488	28736	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_11	additionl description from tsv file
+25	12	0	5222	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_12	additionl description from tsv file
+25	13	1024	8064	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_13	additionl description from tsv file
+25	14	7430016	10163904	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_14	additionl description from tsv file
+25	15	16256	68160	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_15	additionl description from tsv file
+25	16	2351936	3787072	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_16	
+25	17	-1	-1		DevE_gigabitethernet1_0_17	
+25	18	-1	-1		DevE_gigabitethernet1_0_18	
+25	19	-1	-1		DevE_gigabitethernet1_0_19	
+25	20	-1	-1		DevE_gigabitethernet1_0_20	
+25	21	-1	-1		DevE_gigabitethernet1_0_21	
+25	22	-1	-1		DevE_gigabitethernet1_0_22	
+25	23	-1	-1		DevE_gigabitethernet1_0_23	
+25	24	-1	-1		DevE_gigabitethernet1_0_24	
+25	25	-1	-1		DevE_gigabitethernet1_0_25	additionl description from tsv file
+25	26	-1	-1		DevE_gigabitethernet1_0_26	
+25	27	-1	-1		DevE_gigabitethernet1_0_27	
+25	28	-1	-1		DevE_gigabitethernet1_0_28	
+25	29	-1	-1		DevE_gigabitethernet1_0_29	
+25	30	-1	-1		DevE_gigabitethernet1_0_30	
+25	31	-1	-1		DevE_gigabitethernet1_0_31	
+25	32	-1	-1		DevE_gigabitethernet1_0_32	
+25	33	-1	-1		DevE_gigabitethernet1_0_33	
+25	34	-1	-1		DevE_gigabitethernet1_0_34	
+25	35	-1	-1		DevE_gigabitethernet1_0_35	
+25	36	-1	-1		DevE_gigabitethernet1_0_36	
+25	37	-1	-1		DevE_gigabitethernet1_0_37	
+25	38	-1	-1		DevE_gigabitethernet1_0_38	
+25	39	-1	-1		DevE_gigabitethernet1_0_39	
+25	40	-1	-1		DevE_gigabitethernet1_0_40	
+25	41	-1	-1		DevE_gigabitethernet1_0_41	
+25	42	-1	-1		DevE_gigabitethernet1_0_42	
+25	43	-1	-1		DevE_gigabitethernet1_0_43	
+25	44	-1	-1		DevE_gigabitethernet1_0_44	
+25	45	-1	-1		DevE_gigabitethernet1_0_45	
+25	46	-1	-1		DevE_gigabitethernet1_0_46	
+25	47	-1	-1		DevE_gigabitethernet1_0_47	
+25	48	1916480	278848	2017 Mar 30 Thu [10:10]	DevE_gigabitethernet1_0_48	additionl description from tsv file
+26	1	785536	1371840	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_1	additionl description from tsv file
+26	2	149900241	185050811	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_2	
+26	3	12672	30912	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_3	additionl description from tsv file
+26	4	13184	31680	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_4	additionl description from tsv file
+26	5	2496	10112	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_5	additionl description from tsv file
+26	6	2496	10112	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_6	additionl description from tsv file
+26	7	5760	19776	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_7	additionl description from tsv file
+26	8	16384	12992	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_8	additionl description from tsv file
+26	9	30016	19328	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_9	additionl description from tsv file
+26	10	10752	12864	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_10	additionl description from tsv file
+26	11	2048	9920	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_11	additionl description from tsv file
+26	12	2048	10048	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_12	additionl description from tsv file
+26	13	220	9728	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_13	additionl description from tsv file
+26	14	220	9920	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_14	additionl description from tsv file
+26	15	16000	35712	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_15	additionl description from tsv file
+26	16	1856	299776	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_16	additionl description from tsv file
+26	17	1856	17024	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_17	additionl description from tsv file
+26	18	1856	18816	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_18	additionl description from tsv file
+26	19	45562061	174737789	2017 Mar 30 Thu [10:10]	DevF_gigabitethernet1_0_19	additionl description from tsv file
+26	20	-1	-1		DevF_gigabitethernet1_0_20	
+26	21	-1	-1		DevF_gigabitethernet1_0_21	
+26	22	-1	-1		DevF_gigabitethernet1_0_22	
+26	23	-1	-1		DevF_gigabitethernet1_0_23	
+26	24	-1	-1		DevF_gigabitethernet1_0_24	
+26	25	-1	-1		DevF_gigabitethernet1_0_25	
+26	26	-1	-1		DevF_gigabitethernet1_0_26	
+26	27	-1	-1		DevF_gigabitethernet1_0_27	
+26	28	-1	-1		DevF_gigabitethernet1_0_28	
+26	29	-1	-1		DevF_gigabitethernet1_0_29	
+26	30	-1	-1		DevF_gigabitethernet1_0_30	
+26	31	-1	-1		DevF_gigabitethernet1_0_31	
+26	32	-1	-1		DevF_gigabitethernet1_0_32	
+26	33	-1	-1		DevF_gigabitethernet1_0_33	
+26	34	-1	-1		DevF_gigabitethernet1_0_34	
+26	35	-1	-1		DevF_gigabitethernet1_0_35	
+26	36	-1	-1		DevF_gigabitethernet1_0_36	
+26	37	-1	-1		DevF_gigabitethernet1_0_37	
+26	38	-1	-1		DevF_gigabitethernet1_0_38	
+26	39	-1	-1		DevF_gigabitethernet1_0_39	
+26	40	-1	-1		DevF_gigabitethernet1_0_40	
+26	41	-1	-1		DevF_gigabitethernet1_0_41	
+26	42	-1	-1		DevF_gigabitethernet1_0_42	
+26	43	-1	-1		DevF_gigabitethernet1_0_43	
+26	44	-1	-1		DevF_gigabitethernet1_0_44	
+26	45	-1	-1		DevF_gigabitethernet1_0_45	
+26	46	-1	-1		DevF_gigabitethernet1_0_46	
+26	47	-1	-1		DevF_gigabitethernet1_0_47	
+26	48	-1	-1		DevF_gigabitethernet1_0_48	
